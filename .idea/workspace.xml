@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="" />
+    <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +64,22 @@
       <option name="presentableId" value="Default" />
       <updated>1565799311162</updated>
       <workItem from="1565799313749" duration="9000" />
+      <workItem from="1565799434225" duration="4089000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
