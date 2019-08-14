@@ -1,4 +1,4 @@
-package com.myjavase._47.methodlocalinner;
+package com.javase._47.methodlocalinner;
 
 public class NotesForMethodLocalInner {
 
