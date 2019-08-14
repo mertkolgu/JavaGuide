@@ -2,27 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/AccountDanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/CreateThreadObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/LoopThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/MyRunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/MyThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForSynchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/StartThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadSleepTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadSleepTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/FunctionalInterfacesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/FunctionalInterfacesTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/NotesForFunctionalInterfaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565799311162</updated>
       <workItem from="1565799313749" duration="9000" />
-      <workItem from="1565799434225" duration="4089000" />
+      <workItem from="1565799434225" duration="5811000" />
     </task>
     <servers />
   </component>
