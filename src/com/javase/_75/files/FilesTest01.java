@@ -1,4 +1,4 @@
-package com.myjavase._75.files;
+package com.javase._75.files;
 
 import java.io.IOException;
 import java.nio.file.Files;

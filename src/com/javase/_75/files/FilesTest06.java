@@ -1,4 +1,4 @@
-package com.myjavase._75.files;
+package com.javase._75.files;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
