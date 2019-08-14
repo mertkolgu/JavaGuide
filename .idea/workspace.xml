@@ -2,22 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/FindAnyFindFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/FindFirstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ForEachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MatchTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MatchTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MinMaxTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MinMaxTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamCollectTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamCollectTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamFindAnyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamGroupingByConcurrentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamToConcurrentMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamUnorderedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565799311162</updated>
       <workItem from="1565799313749" duration="9000" />
-      <workItem from="1565799434225" duration="6790000" />
+      <workItem from="1565799434225" duration="8618000" />
     </task>
     <servers />
   </component>
