@@ -1,4 +1,4 @@
-package com.myjavase._74.path;
+package com.javase._74.path;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
