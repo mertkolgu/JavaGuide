@@ -8,6 +8,7 @@ public class NotesForVariableAndConstant {
 // camelCase yapıda olmalı.
 // değişken isimleri anlamlı ne işe yaradığı belli olacak şekilde olmalı.
 // değişken isminin kısa olması önemli değil.
+// değişken rakamla başlayamaz.
 
 // sabit(constant)
 // final değişkenler, static final değişkenler
