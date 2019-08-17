@@ -1,6 +1,6 @@
 package com.javase._30.loops;
 
-public class LoopTest {
+public class ForLoopTest01 {
 
     public static void main(String[] args) {
 
