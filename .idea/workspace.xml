@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForTypeCasting.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForVariable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -30,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-basic-examples" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -45,13 +42,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin._02.declarevariable.NotesForConstantKt">
-    <configuration name="NotesForVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._06.declarevariable.NotesForVariable" />
+  <component name="RunManager" selected="Application.MethodOverloadingTest02">
+    <configuration name="MethodOverloadingTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodOverloadingTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._06.declarevariable.*" />
+          <option name="PATTERN" value="com.javase._88.methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,65 +56,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._01.basics.BasicsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodOverloadingTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodOverloadingTest02" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._01.basics.BasicsKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._02.declarevariable.NotesForConstantKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest01" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._02.declarevariable.NotesForConstantKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._02.declarevariable.NotesForTypeCastingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodsTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest02" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._02.declarevariable.NotesForTypeCastingKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._02.declarevariable.NotesForVariableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MethodsTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest03" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._02.declarevariable.NotesForVariableKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin._02.declarevariable.NotesForConstantKt" />
-        <item itemvalue="Kotlin.com.kotlin._02.declarevariable.NotesForTypeCastingKt" />
-        <item itemvalue="Kotlin.com.kotlin._01.basics.BasicsKt" />
-        <item itemvalue="Kotlin.com.kotlin._02.declarevariable.NotesForVariableKt" />
-        <item itemvalue="Application.NotesForVariable" />
+        <item itemvalue="Application.MethodOverloadingTest02" />
+        <item itemvalue="Application.MethodOverloadingTest01" />
+        <item itemvalue="Application.MethodsTest03" />
+        <item itemvalue="Application.MethodsTest02" />
+        <item itemvalue="Application.MethodsTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +131,8 @@
       <workItem from="1565799313749" duration="9000" />
       <workItem from="1565799434225" duration="8804000" />
       <workItem from="1566029811627" duration="12028000" />
-      <workItem from="1566065457985" duration="8708000" />
+      <workItem from="1566065457985" duration="10293000" />
+      <workItem from="1566222763263" duration="4982000" />
     </task>
     <servers />
   </component>
