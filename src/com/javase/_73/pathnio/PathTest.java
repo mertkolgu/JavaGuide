@@ -8,12 +8,12 @@ public class PathTest {
 
     public static void main(String[] args) {
 
-        File file = new File("test.txt");
+        File file = new File("folders/test.txt");
         // hatırlayacağımız gibi burada File objesi oluşur,
         // bu kod storage'da yeni bir test.txt dosyası OLUŞTURMAZ!
 
         // bu durum Path için de geçerli!
-        Path path = Paths.get("test.txt");
+        Path path = Paths.get("folders/test.txt");
 
         // class sun.nio.fs.WindowsPath
         System.out.println(path.getClass());
