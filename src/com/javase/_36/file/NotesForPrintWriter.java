@@ -7,7 +7,7 @@ public class NotesForPrintWriter {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        PrintWriter pw = new PrintWriter("printWriter.txt");
+        PrintWriter pw = new PrintWriter("folders/printWriter.txt");
         pw.println("line1");
         pw.println("line2");
         pw.println("line3");

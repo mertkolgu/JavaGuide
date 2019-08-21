@@ -8,7 +8,7 @@ public class NotesForFileWriterAndReader {
 
     public static void main(String[] args) throws IOException {
 
-        FileWriter fw = new FileWriter("file1.txt");
+        FileWriter fw = new FileWriter("folders/file1.txt");
         fw.write("line1");
         fw.write("\n");
         fw.write("line2");
@@ -17,7 +17,7 @@ public class NotesForFileWriterAndReader {
 
         fw.close(); // CLOSE etmeyi UNUTMA!!!!
 
-        FileReader fr = new FileReader("file1.txt");
+        FileReader fr = new FileReader("folders/file1.txt");
 
         char[] input = new char[100];
         fr.read(input);

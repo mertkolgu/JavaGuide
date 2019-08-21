@@ -11,7 +11,7 @@ public class NotesForBuffered {
 
     public static void main(String[] args) throws IOException {
 
-        File file = new File("buffered.txt");
+        File file = new File("folders/buffered.txt");
         FileWriter fw = new FileWriter(file);
         BufferedWriter bw = new BufferedWriter(fw);
 

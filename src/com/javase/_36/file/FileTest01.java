@@ -7,7 +7,7 @@ public class FileTest01 {
 
     public static void main(String[] args) throws IOException {
 
-        File directory = new File("folder");
+        File directory = new File("folders/folder");
         directory.mkdir();
 
         File file = new File(directory, "file.txt");
