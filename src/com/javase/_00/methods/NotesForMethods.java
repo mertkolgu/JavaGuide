@@ -1,4 +1,4 @@
-package com.javase._88.methods;
+package com.javase._00.methods;
 
 import java.util.Scanner;
 
@@ -39,8 +39,3 @@ public class NotesForMethods {
 // void -> geriye bir şey döndürmüyor. return kullanılamaz.
 // return olan methodlarda return'den sonra hiçbir işlem yapılmaz,
 // method return'e kadar işlem yapar.
-
-// method overloading;
-// dönüş tipi aynı olup değişken sayısı farklı olabilir.
-// dönüş tipi ve değişken sayısı aynı olup değişken tipi farklı olabilir.
-// dönüş tipi ve değişken tipi farklı olup değişken sayısı aynı olabilir.

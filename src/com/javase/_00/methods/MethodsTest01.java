@@ -1,4 +1,4 @@
-package com.javase._88.methods;
+package com.javase._00.methods;
 
 public class MethodsTest01 {
 
