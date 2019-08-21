@@ -7,7 +7,7 @@ public class NotesForStream {
 
     public static void main(String[] args) throws IOException {
 
-        FileOutputStream fos = new FileOutputStream("fos.txt");
+        FileOutputStream fos = new FileOutputStream("folders/fos.txt");
 
         String content = "content line1";
         fos.write(content.getBytes());

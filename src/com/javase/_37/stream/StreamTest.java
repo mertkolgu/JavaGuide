@@ -10,13 +10,13 @@ public class StreamTest {
 
     public static void main(String[] args) throws IOException {
 
-        FileOutputStream fos = new FileOutputStream("bufferedOutput.txt");
+        FileOutputStream fos = new FileOutputStream("folders/bufferedOutput.txt");
         BufferedOutputStream bos = new BufferedOutputStream(fos);
 
         bos.write("convert byte array".getBytes());
         bos.close();
 
-        FileInputStream fis = new FileInputStream("bufferedOutput.txt");
+        FileInputStream fis = new FileInputStream("folders/bufferedOutput.txt");
         BufferedInputStream bis = new BufferedInputStream(fis);
 
         while (bis.available() > 0) {
