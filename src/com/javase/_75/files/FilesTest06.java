@@ -12,7 +12,7 @@ public class FilesTest06 {
 
     public static void main(String[] args) throws IOException {
 
-        Path p1 = Paths.get("buffered.txt");
+        Path p1 = Paths.get("folders/buffered.txt");
 
         try (BufferedWriter bw = Files.newBufferedWriter(p1)) {
             bw.write("line1\nline2\nline3");

@@ -10,8 +10,8 @@ public class FilesTest04 {
 
     public static void main(String[] args) throws IOException {
 
-        Path path1 = Paths.get("original/file.txt");
-        Path path2 = Paths.get("copied/copied.txt");
+        Path path1 = Paths.get("folders/original/file.txt");
+        Path path2 = Paths.get("folders/copied/copied.txt");
 
         if (!Files.exists(path2)) {
             Files.createDirectories(path2.getParent());
