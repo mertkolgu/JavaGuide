@@ -15,11 +15,11 @@ public class PropertyResourceBundleTest {
         String msg2 = resourceBundleEN.getString("message");
         System.out.println(msg2);
 
-        ResourceBundle resourceBundle3 = ResourceBundle.getBundle("com.myjavase._71.propertyresourcebundle.file", new Locale("tr"));
+        ResourceBundle resourceBundle3 = ResourceBundle.getBundle("com.javase._71.propertyresourcebundle.file", new Locale("tr"));
         String msg3 = resourceBundle3.getString("property.key");
         System.out.println(msg3);
 
-        ResourceBundle resourceBundle4 = ResourceBundle.getBundle("com.myjavase._71.propertyresourcebundle.file", new Locale("en"));
+        ResourceBundle resourceBundle4 = ResourceBundle.getBundle("com.javase._71.propertyresourcebundle.file", new Locale("en"));
         String msg4 = resourceBundle4.getString("property.key");
         System.out.println(msg4);
     }
