@@ -9,7 +9,7 @@ public class FilesStreamTest04 {
 
     public static void main(String[] args) {
 
-        try (Stream<String> stream = Files.lines(Paths.get("lines.txt"))) {
+        try (Stream<String> stream = Files.lines(Paths.get("folders/lines.txt"))) {
             stream.forEach(System.out::println);
         } catch (IOException e) {
             e.printStackTrace();
