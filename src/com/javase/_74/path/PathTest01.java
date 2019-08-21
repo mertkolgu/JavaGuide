@@ -8,12 +8,12 @@ public class PathTest01 {
 
     public static void main(String[] args) {
 
-        Path path1 = Paths.get("/folder1/folder2");
+        Path path1 = Paths.get("folders/folder1/folder2");
         System.out.println(path1.getClass());
         // class sun.nio.fs.WindowsPath (windows), linux ve macos'ta farklı olacaktır.
         System.out.println(path1);
 
-        File file = new File("/folder1/folder2");
+        File file = new File("folders/folder1/folder2");
     }
 }
 

@@ -7,11 +7,11 @@ public class PathTest03 {
 
     public static void main(String[] args) {
 
-        Path path3 = Paths.get("folder", "folder2", "zoodirector");
+        Path path3 = Paths.get("folders/folder", "folder2", "zoodirector");
         System.out.println(path3);
         System.out.println(path3.isAbsolute());
         System.out.println(path3.toAbsolutePath());
-        // D:\Projeler\JavaGuide\folder\folder2\zoodirector
+        // D:\Projeler\java-guide\folders\folder\folder2\zoodirector
     }
 }
 

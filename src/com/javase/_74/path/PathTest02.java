@@ -8,7 +8,7 @@ public class PathTest02 {
 
     public static void main(String[] args) {
 
-        Path path1 = Paths.get("/folder/folder2/folder3/test.txt");
+        Path path1 = Paths.get("/folders/folder/folder2/folder3/test.txt");
         System.out.println(path1.getFileName());
         System.out.println(path1.getRoot());
         System.out.println(path1.getParent());
