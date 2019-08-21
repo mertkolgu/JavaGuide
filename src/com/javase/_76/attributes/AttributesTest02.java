@@ -10,7 +10,7 @@ public class AttributesTest02 {
 
     public static void main(String[] args) throws IOException {
 
-        Path p1 = Paths.get("original/file.txt");
+        Path p1 = Paths.get("folders/original/file.txt");
 
         BasicFileAttributes attributes = Files.readAttributes(p1, BasicFileAttributes.class);
 

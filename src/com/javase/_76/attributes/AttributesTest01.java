@@ -9,7 +9,7 @@ public class AttributesTest01 {
 
     public static void main(String[] args) throws IOException {
 
-        Path p1 = Paths.get("dir1");
+        Path p1 = Paths.get("folders/dir1");
         System.out.println(Files.isDirectory(p1));
         System.out.println(Files.isRegularFile(p1));
         System.out.println(Files.isExecutable(p1));
@@ -17,7 +17,7 @@ public class AttributesTest01 {
         System.out.println(Files.isWritable(p1));
         System.out.println(Files.isHidden(p1)); // throws IOException
 
-        Path p2 = Paths.get("test.txt");
+        Path p2 = Paths.get("folders/test.txt");
         System.out.println(Files.size(p2));
         System.out.println(Files.getLastModifiedTime(p2));
         System.out.println(Files.getOwner(p2));
