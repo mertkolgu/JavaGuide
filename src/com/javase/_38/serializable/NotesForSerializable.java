@@ -15,12 +15,12 @@ public class NotesForSerializable {
         laptop.price = 10000;
         laptop.brand = "apple";
 
-        FileOutputStream fos = new FileOutputStream("laptop.ser");
+        FileOutputStream fos = new FileOutputStream("folders/laptop.ser");
         ObjectOutputStream oos = new ObjectOutputStream(fos);
         oos.writeObject(laptop);
         oos.close();
 
-        FileInputStream fis = new FileInputStream("laptop.ser");
+        FileInputStream fis = new FileInputStream("folders/laptop.ser");
         ObjectInputStream ois = new ObjectInputStream(fis);
 
         Laptop laptopFound = (Laptop) ois.readObject();
