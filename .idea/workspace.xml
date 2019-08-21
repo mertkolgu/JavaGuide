@@ -3,6 +3,51 @@
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/buffered.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bufferedOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config_tr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/copied/copied.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir1/dir2/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dir1/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fos.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laptop.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lines.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printWriter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/renamedFolder/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_10/inheritance/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForBuffered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForBuffered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFileWriterAndReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFileWriterAndReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForPrintWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForPrintWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/NotesForStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_37/stream/NotesForStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_71/propertyresourcebundle/PropertyResourceBundleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_71/propertyresourcebundle/PropertyResourceBundleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_72/listresourcebundle/ListResourceBundleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_72/listresourcebundle/ListResourceBundleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_73/pathnio/PathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_73/pathnio/PathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +87,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverloadingTest02">
-    <configuration name="MethodOverloadingTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodOverloadingTest01" />
+  <component name="RunManager" selected="Application.FileTest01">
+    <configuration name="FileTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._36.file.FileTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="PATTERN" value="com.javase._36.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodOverloadingTest02" />
+    <configuration name="FilesStreamTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._77.filestream.FilesStreamTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="PATTERN" value="com.javase._77.filestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest01" />
+    <configuration name="FilesStreamTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._77.filestream.FilesStreamTest02" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="PATTERN" value="com.javase._77.filestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest02" />
+    <configuration name="FilesStreamTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._77.filestream.FilesStreamTest03" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="PATTERN" value="com.javase._77.filestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.methods.MethodsTest03" />
+    <configuration name="FilesStreamTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._77.filestream.FilesStreamTest04" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.methods.*" />
+          <option name="PATTERN" value="com.javase._77.filestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverloadingTest02" />
-        <item itemvalue="Application.MethodOverloadingTest01" />
-        <item itemvalue="Application.MethodsTest03" />
-        <item itemvalue="Application.MethodsTest02" />
-        <item itemvalue="Application.MethodsTest01" />
+        <item itemvalue="Application.FileTest01" />
+        <item itemvalue="Application.FilesStreamTest03" />
+        <item itemvalue="Application.FilesStreamTest02" />
+        <item itemvalue="Application.FilesStreamTest04" />
+        <item itemvalue="Application.FilesStreamTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +177,9 @@
       <workItem from="1565799434225" duration="8804000" />
       <workItem from="1566029811627" duration="12028000" />
       <workItem from="1566065457985" duration="10293000" />
-      <workItem from="1566222763263" duration="4982000" />
+      <workItem from="1566222763263" duration="10789000" />
+      <workItem from="1566341291481" duration="1340000" />
+      <workItem from="1566376624178" duration="16698000" />
     </task>
     <servers />
   </component>

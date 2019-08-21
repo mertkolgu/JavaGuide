@@ -7,11 +7,11 @@ public class ListResourceBundleTest {
 
     public static void main(String[] args) {
 
-        ResourceBundle rb = ResourceBundle.getBundle("com.myjavase._72.listresourcebundle.Message", new Locale("en"));
+        ResourceBundle rb = ResourceBundle.getBundle("com.javase._72.listresourcebundle.Message", new Locale("en"));
         System.out.println(rb.getString("key1"));
         System.out.println(rb.getString("key2"));
 
-        ResourceBundle rb2 = ResourceBundle.getBundle("com.myjavase._72.listresourcebundle.Message", new Locale("tr"));
+        ResourceBundle rb2 = ResourceBundle.getBundle("com.javase._72.listresourcebundle.Message", new Locale("tr"));
         System.out.println(rb2.getString("key1"));
         System.out.println(rb2.getString("key2"));
     }
