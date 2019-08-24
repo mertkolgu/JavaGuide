@@ -17,7 +17,5 @@ public class StringTest02 {
         String lang22 = "java" + version;
 
         System.out.println(lang11 == lang22);
-
-        // String OBJELERİNİ equals ile karşılaştır.
     }
 }

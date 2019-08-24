@@ -9,12 +9,16 @@ public class NotesForString {
         System.out.println(x);
 
         String y = "java";
-        y = y.concat(" Rules");
+        y = y.concat(" Rules"); // stringleri birleştirir
         System.out.println(y);
 
         String z = "java";
-        z.toUpperCase();
-        System.out.println(z);
+        z.toUpperCase();    // bütün karakterleri büyük harfle yazar
+        System.out.println(z.toUpperCase());
+
+        String q = "JAVA";
+        q.toLowerCase();    // bütün karakterleri küçük harfle yazar
+        System.out.println(q.toLowerCase());
     }
 }
 
