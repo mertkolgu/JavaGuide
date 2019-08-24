@@ -10,3 +10,5 @@ public class ForLoopTest01 {
             System.out.println(e);
     }
 }
+
+// for-each döngüsü array'lerde işimizi kolaylaştırır.
