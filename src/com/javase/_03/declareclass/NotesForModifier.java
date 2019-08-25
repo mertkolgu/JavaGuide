@@ -31,3 +31,4 @@ public class NotesForModifier {
 // final ile abstract zıttır. bunlar bir araya GELEMEZ!
 // abstract class extends edilmek için vardır.
 // bir sınıf hem final hem abstract olamaz!
+// obje oluşturamıyoruz. referansları alt sınıflara referans olabiliyor.
