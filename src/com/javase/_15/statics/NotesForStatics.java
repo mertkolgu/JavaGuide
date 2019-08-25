@@ -41,4 +41,7 @@ class Employee {
     // bu gibi işlemler için static metodları tercih ederiz ve direkt className.staticMethodName şeklinde çağırıp kullanırız.
     // bu classlar Object Oriented açısından herhangi bir hiyerarşik durum ifade etmez.
     // tamamen yardımcı/utility amaçlı classlardır.
+
+    // static olan bir metotta static olmayan bir metot çağrılamaz.
+    // static olan bir metotta static olmayan bir değişken çağrılamaz.
 }

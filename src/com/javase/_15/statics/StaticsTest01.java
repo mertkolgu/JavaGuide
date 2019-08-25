@@ -1,6 +1,6 @@
 package com.javase._15.statics;
 
-public class StaticsTest {
+public class StaticsTest01 {
 
     String name = "mert";   // bu instance değişkendir.
     // instance değişken objeye aittir.
@@ -14,7 +14,7 @@ public class StaticsTest {
         // çünkü ortada bir obje yok!
         // System.out.println(name);
 
-        StaticsTest test = new StaticsTest();
+        StaticsTest01 test = new StaticsTest01();
         System.out.println(test.name);
         test.name = "new name";
         System.out.println(test.name);
