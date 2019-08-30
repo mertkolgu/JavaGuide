@@ -4,7 +4,7 @@ public class OuterClassTest04 {
     //
 }
 
-class OuterV4 {
+class OuterClassV4 {
 
     private class InnerV1 {
         //

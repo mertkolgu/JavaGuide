@@ -1,6 +1,6 @@
 package com.javase._46.classes;
 
-class OuterV3 {
+class OuterClassV3 {
 
     private int value = 200;
 
@@ -11,7 +11,7 @@ class OuterV3 {
         void test() {
             System.out.println(value);
             System.out.println(this.value);
-            System.out.println(OuterV3.this.value);
+            System.out.println(OuterClassV3.this.value);
         }
     }
 }
@@ -20,7 +20,7 @@ public class OuterClassTest03 {
 
     public static void main(String[] args) {
 
-        OuterV3.Inner inner = new OuterV3().new Inner();
+        OuterClassV3.Inner inner = new OuterClassV3().new Inner();
         inner.test();
     }
 }
