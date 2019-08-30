@@ -1,6 +1,6 @@
 package com.javase._49.staticnestedclass;
 
-public class Outer {
+public class OuterClass {
 
     static class StaticNested {
         // inner class static olduğunda!

@@ -1,8 +1,6 @@
 package com.javase._49.staticnestedclass;
 
-import com.javase._49.staticnestedclass.Outer.StaticNested;
-
-class OuterV2 {
+class OuterClassV2 {
 
     private int value = 20;
     private static int valueStatic = 200;
@@ -22,13 +20,13 @@ class OuterV2 {
     }
 }
 
-public class OuterTest {
+public class OuterClassTest01 {
 
     public static void main(String[] args) {
         // regular inner class için outer class'ın objesi olmadan
         // inner class'ın objesinden bahsedemeyiz.
 
-        OuterV2.StaticNested staticNested = new OuterV2.StaticNested();
-        OuterV2.StaticNested.staticMethod();
+        OuterClassV2.StaticNested staticNested = new OuterClassV2.StaticNested();
+        OuterClassV2.StaticNested.staticMethod();
     }
 }
