@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayMultiDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayMultiDimension.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +15,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -28,8 +28,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-basic-examples" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,13 +43,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayMultiDimensionTest">
-    <configuration name="ArrayMultiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._23.arrays.ArrayMultiDimension" />
+  <component name="RunManager" selected="Application.GenericsTest">
+    <configuration name="AnonymousInnerClassTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._48.anonymousinnerclass.AnonymousInnerClassTest03" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._23.arrays.*" />
+          <option name="PATTERN" value="com.javase._48.anonymousinnerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMultiDimensionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._23.arrays.ArrayMultiDimensionTest" />
+    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericMethodTest" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._23.arrays.*" />
+          <option name="PATTERN" value="com.javase._88.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._23.arrays.ArrayTest04" />
+    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericsTest" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._23.arrays.*" />
+          <option name="PATTERN" value="com.javase._88.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._23.arrays.ArrayTest05" />
+    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericsTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._23.arrays.*" />
+          <option name="PATTERN" value="com.javase._88.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._23.arrays.ArrayTest06" />
+    <configuration name="LocalInnerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._47.methodlocalinner.LocalInnerTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._23.arrays.*" />
+          <option name="PATTERN" value="com.javase._47.methodlocalinner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayMultiDimensionTest" />
-        <item itemvalue="Application.ArrayMultiDimension" />
-        <item itemvalue="Application.ArrayTest06" />
-        <item itemvalue="Application.ArrayTest05" />
-        <item itemvalue="Application.ArrayTest04" />
+        <item itemvalue="Application.GenericsTest" />
+        <item itemvalue="Application.GenericMethodTest" />
+        <item itemvalue="Application.GenericsTest01" />
+        <item itemvalue="Application.AnonymousInnerClassTest03" />
+        <item itemvalue="Application.LocalInnerTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,12 @@
       <workItem from="1566417638785" duration="14000" />
       <workItem from="1566549629790" duration="134000" />
       <workItem from="1566549947697" duration="65000" />
-      <workItem from="1566550027138" duration="5741000" />
+      <workItem from="1566550027138" duration="10806000" />
+      <workItem from="1566640364277" duration="6744000" />
+      <workItem from="1566729926224" duration="11366000" />
+      <workItem from="1567173607439" duration="139000" />
+      <workItem from="1567173772838" duration="9846000" />
+      <workItem from="1567247109395" duration="2656000" />
     </task>
     <servers />
   </component>
