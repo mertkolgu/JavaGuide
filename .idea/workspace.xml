@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java-guide:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_20/variablescope/ScopeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_20/variablescope/NotesForVariableScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_20/variablescope/NotesForVariableScope.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +36,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-basic-examples" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -44,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericsTest">
+  <component name="RunManager" selected="Application.ScopeTest01">
     <configuration name="AnonymousInnerClassTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javase._48.anonymousinnerclass.AnonymousInnerClassTest03" />
       <module name="java-guide" />
@@ -97,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalInnerTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._47.methodlocalinner.LocalInnerTest01" />
+    <configuration name="ScopeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._20.variablescope.ScopeTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._47.methodlocalinner.*" />
+          <option name="PATTERN" value="com.javase._20.variablescope.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScopeTest01" />
         <item itemvalue="Application.GenericsTest" />
         <item itemvalue="Application.GenericMethodTest" />
         <item itemvalue="Application.GenericsTest01" />
         <item itemvalue="Application.AnonymousInnerClassTest03" />
-        <item itemvalue="Application.LocalInnerTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +154,7 @@
       <workItem from="1566729926224" duration="11366000" />
       <workItem from="1567173607439" duration="139000" />
       <workItem from="1567173772838" duration="9846000" />
-      <workItem from="1567247109395" duration="7201000" />
+      <workItem from="1567247109395" duration="10160000" />
     </task>
     <servers />
   </component>
