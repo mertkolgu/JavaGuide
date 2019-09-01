@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_20/variablescope/ScopeTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_20/variablescope/NotesForVariableScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_20/variablescope/NotesForVariableScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +22,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,13 +53,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScopeTest01">
-    <configuration name="AnonymousInnerClassTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._48.anonymousinnerclass.AnonymousInnerClassTest03" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._48.anonymousinnerclass.*" />
+          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericMethodTest" />
+    <configuration name="FinalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest02" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.generics.*" />
+          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,25 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericsTest" />
+    <configuration name="FinalTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest03" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._88.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericsTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._88.generics.GenericsTest01" />
-      <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._88.generics.*" />
+          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._04.declareinterface.Test" />
+      <module name="java-guide" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._04.declareinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FinalTest03" />
+        <item itemvalue="Application.FinalTest02" />
+        <item itemvalue="Application.FinalTest" />
         <item itemvalue="Application.ScopeTest01" />
-        <item itemvalue="Application.GenericsTest" />
-        <item itemvalue="Application.GenericMethodTest" />
-        <item itemvalue="Application.GenericsTest01" />
-        <item itemvalue="Application.AnonymousInnerClassTest03" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,8 @@
       <workItem from="1566729926224" duration="11366000" />
       <workItem from="1567173607439" duration="139000" />
       <workItem from="1567173772838" duration="9846000" />
-      <workItem from="1567247109395" duration="10160000" />
+      <workItem from="1567247109395" duration="13763000" />
+      <workItem from="1567329844279" duration="7504000" />
     </task>
     <servers />
   </component>
