@@ -34,9 +34,9 @@ public class NotesForExceptionHandling {
 
 // Exception Türleri
 
-// Checkhed(Kontrollü) Exception -> Runtime Exceptionlardan türemeyen her class "Checked Exception" kapsamına girer ve
+// Checked(Kontrollü) Exception -> Runtime Exceptionlardan türemeyen her class "Checked Exception" kapsamına girer ve
 // Java kodların exception fırlatabileceğini öngörür. Bu hataları yakalamazsak Java bize bu hataları yakalamamızı
-// söyler. Örnek; IOException, SqlException
+// söyler. Örnek; IOException, SQLException
 
 // UnChecked(Kontrolsüz) Exception -> Runtime Exceptionlardan türeyen her class "UnChecked Exception" kapsamına girer
 // ve programı çalıştırmadan önce kontrol edilemezler. Yani Java bu exception'ı öngöremez. Hataları yakalama
