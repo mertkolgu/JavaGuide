@@ -7,27 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IterableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/QueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/VectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/NotesForExceptionHierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/NotesForExceptionHierarchy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +58,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IterableTest">
-    <configuration name="IterableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IterableTest" />
+  <component name="RunManager" selected="Application.ExceptionHierarchyTest09">
+    <configuration name="ExceptionHierarchyTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._33.exceptionhierarchy.ExceptionHierarchyTest05" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._45.collection.*" />
+          <option name="PATTERN" value="com.javase._33.exceptionhierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IteratorTest01" />
+    <configuration name="ExceptionHierarchyTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._33.exceptionhierarchy.ExceptionHierarchyTest06" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._45.collection.*" />
+          <option name="PATTERN" value="com.javase._33.exceptionhierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IteratorTest02" />
+    <configuration name="ExceptionHierarchyTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._33.exceptionhierarchy.ExceptionHierarchyTest07" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._45.collection.*" />
+          <option name="PATTERN" value="com.javase._33.exceptionhierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.PriorityQueueTest01" />
+    <configuration name="ExceptionHierarchyTest08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._33.exceptionhierarchy.ExceptionHierarchyTest08" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._45.collection.*" />
+          <option name="PATTERN" value="com.javase._33.exceptionhierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.PriorityQueueTest02" />
+    <configuration name="ExceptionHierarchyTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._33.exceptionhierarchy.ExceptionHierarchyTest09" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._45.collection.*" />
+          <option name="PATTERN" value="com.javase._33.exceptionhierarchy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IterableTest" />
-        <item itemvalue="Application.IteratorTest02" />
-        <item itemvalue="Application.IteratorTest01" />
-        <item itemvalue="Application.PriorityQueueTest02" />
-        <item itemvalue="Application.PriorityQueueTest01" />
+        <item itemvalue="Application.ExceptionHierarchyTest09" />
+        <item itemvalue="Application.ExceptionHierarchyTest08" />
+        <item itemvalue="Application.ExceptionHierarchyTest07" />
+        <item itemvalue="Application.ExceptionHierarchyTest06" />
+        <item itemvalue="Application.ExceptionHierarchyTest05" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +161,7 @@
       <workItem from="1567173772838" duration="9846000" />
       <workItem from="1567247109395" duration="13763000" />
       <workItem from="1567329844279" duration="26313000" />
-      <workItem from="1567421663523" duration="12629000" />
+      <workItem from="1567421663523" duration="21099000" />
     </task>
     <servers />
   </component>

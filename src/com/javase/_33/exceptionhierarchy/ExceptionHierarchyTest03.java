@@ -17,7 +17,7 @@ public class ExceptionHierarchyTest03 {
         FileReader fr = null;
 
         try {
-            fr = new FileReader("file.txt");
+            fr = new FileReader("folders/file.txt");
             fr.read();
         } catch (FileNotFoundException e) {
             //
@@ -37,7 +37,7 @@ public class ExceptionHierarchyTest03 {
         // aralarında bir hiyerarşi yoksa hangisinin önce olduğu önemli değildir.
 
 //        try {
-//            FileReader fr = new FileReader("file.txt");
+//            FileReader fr = new FileReader("folders/file.txt");
 //            fr.read();
 //        } catch (IOException e1) {
 //            //

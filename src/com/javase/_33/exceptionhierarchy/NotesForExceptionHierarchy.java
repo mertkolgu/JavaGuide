@@ -19,4 +19,5 @@ public class NotesForExceptionHierarchy {
 // Error'ları yakalamak gibi bir derdimiz yoktur! (catch)
 
 // Error'lar ve RuntimeException'lar unchecked tipindedir
-// diğer sınıflar ise Exception ve RuntimeException'ını kalıtmayan exceptionlar, Throwable ise checked tipindedir.
+// diğer sınıflar ise Exception ve RuntimeException'ını kalıtmayan exceptionlar,
+// Throwable ise checked tipindedir.

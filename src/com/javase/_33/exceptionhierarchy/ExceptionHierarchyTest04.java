@@ -1,6 +1,7 @@
 package com.javase._33.exceptionhierarchy;
 
 public class ExceptionHierarchyTest04 {
+
     public static void main(String[] args) {
 
         String name = getName();

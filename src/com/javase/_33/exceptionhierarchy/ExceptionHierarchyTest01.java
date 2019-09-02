@@ -7,7 +7,7 @@ public class ExceptionHierarchyTest01 {
 
     public static void main(String[] args) throws IOException {
 
-        // FileWriter fw = new FileWriter("dosya.txt");
+        // FileWriter fw = new FileWriter("folders/dosya.txt");
         // bir metodu/constructor'ı çağırdığımızda ve bu metod/constructor bir checked
         // exception fırlatma riski taşıdığında(throws ifadesi barındırdığında)
         // bu durumda compiler bize derleme hatası verir.
@@ -20,14 +20,14 @@ public class ExceptionHierarchyTest01 {
         // bu kural sadece Checked Exception'lar için zorunludur.
 
         try {
-            FileWriter fw = new FileWriter("dosya.txt");
+            FileWriter fw = new FileWriter("folders/dosya.txt");
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace();    // hatanın türünü ekrana basar
         }
 
-        FileWriter fw = new FileWriter("dosya.txt");
-        FileWriter fw2 = new FileWriter("dosya.txt");
-        FileWriter fw3 = new FileWriter("dosya.txt");
+        FileWriter fw = new FileWriter("folders/dosya.txt");
+        FileWriter fw2 = new FileWriter("folders/dosya.txt");
+        FileWriter fw3 = new FileWriter("folders/dosya.txt");
         // bir kere throws ettiğimizde artık try-catch arasına almamız gerekmez.
     }
 }
