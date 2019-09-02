@@ -16,6 +16,6 @@ public class ListTest09 {
         list1 = new LinkedList<>();
 
         ArrayList<Integer> list2 = new ArrayList<>();
-        // list2 = new LinkedList<>();   //compiler error!
+        // list2 = new LinkedList<>();   // compiler error!
     }
 }

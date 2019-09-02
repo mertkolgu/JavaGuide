@@ -7,9 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IterableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/StackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/VectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +40,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,13 +71,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="FinalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest" />
+  <component name="RunManager" selected="Application.IterableTest">
+    <configuration name="IterableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IterableTest" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
+          <option name="PATTERN" value="com.javase._45.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest02" />
+    <configuration name="IteratorTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IteratorTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
+          <option name="PATTERN" value="com.javase._45.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._05.declaremembers.finaltest.FinalTest03" />
+    <configuration name="IteratorTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.IteratorTest02" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._05.declaremembers.finaltest.*" />
+          <option name="PATTERN" value="com.javase._45.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._20.variablescope.ScopeTest01" />
+    <configuration name="PriorityQueueTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.PriorityQueueTest01" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._20.variablescope.*" />
+          <option name="PATTERN" value="com.javase._45.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._04.declareinterface.Test" />
+    <configuration name="PriorityQueueTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._45.collection.PriorityQueueTest02" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._04.declareinterface.*" />
+          <option name="PATTERN" value="com.javase._45.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FinalTest03" />
-        <item itemvalue="Application.FinalTest02" />
-        <item itemvalue="Application.FinalTest" />
-        <item itemvalue="Application.ScopeTest01" />
+        <item itemvalue="Application.IterableTest" />
+        <item itemvalue="Application.IteratorTest02" />
+        <item itemvalue="Application.IteratorTest01" />
+        <item itemvalue="Application.PriorityQueueTest02" />
+        <item itemvalue="Application.PriorityQueueTest01" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +173,8 @@
       <workItem from="1567173607439" duration="139000" />
       <workItem from="1567173772838" duration="9846000" />
       <workItem from="1567247109395" duration="13763000" />
-      <workItem from="1567329844279" duration="7504000" />
+      <workItem from="1567329844279" duration="26313000" />
+      <workItem from="1567421663523" duration="12629000" />
     </task>
     <servers />
   </component>
