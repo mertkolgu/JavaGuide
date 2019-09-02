@@ -22,7 +22,7 @@ public class ExceptionHandlingTest03 {
 //            //
 //        } finally {
 //            con.close();
-//            // hata olsa da olmasa da finally bloğu çalışacaktırç
+//            // hata olsa da olmasa da finally bloğu çalışacaktır
 //            // catch bloğu çalışsa da çalışmasa da finally bloğu çalışacaktır
 //        }
     }

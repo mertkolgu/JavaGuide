@@ -31,3 +31,15 @@ public class NotesForExceptionHandling {
 // java.lang.RuntimeException
 // java.lang.Exception
 // java.lang.Throwable
+
+// Exception Türleri
+
+// Checkhed(Kontrollü) Exception -> Runtime Exceptionlardan türemeyen her class "Checked Exception" kapsamına girer ve
+// Java kodların exception fırlatabileceğini öngörür. Bu hataları yakalamazsak Java bize bu hataları yakalamamızı
+// söyler. Örnek; IOException, SqlException
+
+// UnChecked(Kontrolsüz) Exception -> Runtime Exceptionlardan türeyen her class "UnChecked Exception" kapsamına girer
+// ve programı çalıştırmadan önce kontrol edilemezler. Yani Java bu exception'ı öngöremez. Hataları yakalama
+// programcının sorumluluğundadır. Örnek; ArithmeticException, NullPointerException
+
+// Error -> Geri dönülemez ve tamir edilemeyen hatalardır. Örnek; OutOfMemoryError
