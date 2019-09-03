@@ -22,6 +22,6 @@ public class TryWithResourceTest02 {
             // s2.nextInt(); // DOES NOT COMPILE
         }
         // try-with resource yaklaşımında değişkenin (s2) lifecycle'i try bloğu ile sınırlıdır.
-        //The problem is that Scanner has gone out of scope at the end of the try clause
+        // The problem is that Scanner has gone out of scope at the end of the try clause
     }
 }
