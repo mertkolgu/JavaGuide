@@ -6,7 +6,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class StreamTest {
+public class StreamTest01 {
 
     public static void main(String[] args) throws IOException {
 
