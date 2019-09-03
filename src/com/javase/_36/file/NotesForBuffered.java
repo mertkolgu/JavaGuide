@@ -33,3 +33,6 @@ public class NotesForBuffered {
         }
     }
 }
+
+// FileReader dosyadaki bilgiyi karakter karakter okur.
+// BufferedReader dosyadaki bilgiyi dosyanın en sonuna kadar okur.
