@@ -7,12 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForBuffered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForBuffered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileTest07">
-    <configuration name="FileTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._36.file.FileTest05" />
+  <component name="RunManager" selected="Application.ObjeyiOkuV3">
+    <configuration name="ObjeyiOku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOku" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._36.file.*" />
+          <option name="PATTERN" value="com.javase._38.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._36.file.FileTest06" />
+    <configuration name="ObjeyiOkuV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOkuV2" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._36.file.*" />
+          <option name="PATTERN" value="com.javase._38.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._36.file.FileTest07" />
+    <configuration name="ObjeyiOkuV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOkuV3" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._36.file.*" />
+          <option name="PATTERN" value="com.javase._38.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourceTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._69.trywithresource.TryWithResourceTest04" />
+    <configuration name="SerializableTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.SerializableTest02" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._69.trywithresource.*" />
+          <option name="PATTERN" value="com.javase._38.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryWithResourceTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._69.trywithresource.TryWithResourceTest05" />
+    <configuration name="SerializableTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.SerializableTest03" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._69.trywithresource.*" />
+          <option name="PATTERN" value="com.javase._38.serializable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileTest07" />
-        <item itemvalue="Application.FileTest06" />
-        <item itemvalue="Application.FileTest05" />
-        <item itemvalue="Application.TryWithResourceTest05" />
-        <item itemvalue="Application.TryWithResourceTest04" />
+        <item itemvalue="Application.ObjeyiOkuV3" />
+        <item itemvalue="Application.SerializableTest03" />
+        <item itemvalue="Application.ObjeyiOkuV2" />
+        <item itemvalue="Application.SerializableTest02" />
+        <item itemvalue="Application.ObjeyiOku" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,7 @@
       <workItem from="1567247109395" duration="13763000" />
       <workItem from="1567329844279" duration="26313000" />
       <workItem from="1567421663523" duration="21747000" />
-      <workItem from="1567506677164" duration="11820000" />
+      <workItem from="1567506677164" duration="16856000" />
     </task>
     <servers />
   </component>

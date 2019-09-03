@@ -38,3 +38,21 @@ class Laptop implements Serializable {
     transient String brand;
     // geçici, çabuk
 }
+
+// Java, Serialization API sayesinde Serializable interface'ini implemente eden class'ların objelerini
+// bir byte dizisine dönüştürüp bir dosyaya kaydetme imkanı verir.
+// Java'da bu işleme objelerin serileştirilmesi yani Serialization adı verilir.
+// Sonradan ise bu objeleri dosyadan okumak için yaptığımız işleme ise DeSerialization adı verilir.
+
+// Serialization Avantajları
+
+// Objelerin state'lerini (anlık durumlarını) ve özelliklerini daha sonra kullanmak için saklamak istiyorsak
+// Serialization kullanabiliriz. Örneğin; oyunlarda kaydettiğimiz yerden devam etmek istiyorsak Serialization
+// mantığı kullanılıyor diyebiliriz.
+
+// 2 platform arasındaki veri alışverişini objeler üzerinden yapmak istiyorsak objelerimizi serileştirip
+// dosya transferi yapabiliriz. Örneğin; bir chat uygulamasında mesajları obje olarak düşünürsek
+// bunları serileştirme yolu ile transfer edebiliriz.
+
+// Bir objenin oluşması çok uzun sürüyorsa ve daha sonradan bu objeyi kullanmak istiyorsak bir daha
+// bu objeyi oluşturmak yerine bu objeyi serileştirerek daha sonra kullanabiliriz.
