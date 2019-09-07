@@ -7,11 +7,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjeyiOkuV3">
-    <configuration name="ObjeyiOku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOku" />
+  <component name="RunManager" selected="Application.ThreadTest13">
+    <configuration name="ThreadTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest09" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._38.serializable.*" />
+          <option name="PATTERN" value="com.javase._51.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiOkuV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOkuV2" />
+    <configuration name="ThreadTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest10" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._38.serializable.*" />
+          <option name="PATTERN" value="com.javase._51.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiOkuV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.ObjeyiOkuV3" />
+    <configuration name="ThreadTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest11" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._38.serializable.*" />
+          <option name="PATTERN" value="com.javase._51.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializableTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.SerializableTest02" />
+    <configuration name="ThreadTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest12" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._38.serializable.*" />
+          <option name="PATTERN" value="com.javase._51.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializableTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._38.serializable.SerializableTest03" />
+    <configuration name="ThreadTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest13" />
       <module name="java-guide" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javase._38.serializable.*" />
+          <option name="PATTERN" value="com.javase._51.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjeyiOkuV3" />
-        <item itemvalue="Application.SerializableTest03" />
-        <item itemvalue="Application.ObjeyiOkuV2" />
-        <item itemvalue="Application.SerializableTest02" />
-        <item itemvalue="Application.ObjeyiOku" />
+        <item itemvalue="Application.ThreadTest13" />
+        <item itemvalue="Application.ThreadTest12" />
+        <item itemvalue="Application.ThreadTest11" />
+        <item itemvalue="Application.ThreadTest10" />
+        <item itemvalue="Application.ThreadTest09" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +173,14 @@
       <workItem from="1567247109395" duration="13763000" />
       <workItem from="1567329844279" duration="26313000" />
       <workItem from="1567421663523" duration="21747000" />
-      <workItem from="1567506677164" duration="16856000" />
+      <workItem from="1567506677164" duration="18176000" />
+      <workItem from="1567680734384" duration="35000" />
+      <workItem from="1567681143842" duration="11762000" />
+      <workItem from="1567760172865" duration="1263000" />
+      <workItem from="1567770050691" duration="7500000" />
+      <workItem from="1567854837362" duration="47000" />
+      <workItem from="1567855110054" duration="3633000" />
+      <workItem from="1567880023278" duration="6353000" />
     </task>
     <servers />
   </component>

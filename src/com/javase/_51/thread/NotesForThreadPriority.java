@@ -13,3 +13,8 @@ public class NotesForThreadPriority {
 
 // priority/önceliği yüksek olan thread'lerin önce çalışmasını bekleriz.
 // fakat bunun %100 garantisi yoktur.
+
+// birçok thread oluşturduğumuzda JVM ve OS bu thread'lerin
+// ne zaman çalışacağını ve ne zaman başlayacağını kendisi belirler.
+// ayrıca thread'lerin çalışma sırası ve başlatılma sırası farklı olabileceği için
+// programlarımızda ortaya çıkan çıktılar farklılık gösterebilir.

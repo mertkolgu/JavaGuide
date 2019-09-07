@@ -1,6 +1,6 @@
 package com.javase._51.thread;
 
-class SynchronizedTest {
+class SynchronizedTest01 {
 
     public void doStuff() {
 
@@ -33,7 +33,7 @@ class SynchronizedTest {
 
     public static int getCountV2() {
 
-        synchronized (SynchronizedTest.class) {
+        synchronized (SynchronizedTest01.class) {
             return 0;
         }
     }
