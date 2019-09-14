@@ -1,4 +1,4 @@
-package com.kotlin._04.arrays
+package com.kotlin._03.arrays
 
 fun main() {
     // 1 ile 20 arasındaki sayılar

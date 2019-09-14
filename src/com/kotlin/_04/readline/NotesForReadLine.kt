@@ -1,4 +1,4 @@
-package com.kotlin._05.readline
+package com.kotlin._04.readline
 
 fun main() {
     print("Adınızı giriniz : ")

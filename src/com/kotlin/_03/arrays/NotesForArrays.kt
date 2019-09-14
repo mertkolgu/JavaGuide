@@ -1,4 +1,4 @@
-package com.kotlin._04.arrays
+package com.kotlin._03.arrays
 
 fun main() {
     var sayilar: Array<Int> = arrayOf(1, 2, 3, 4, 5, 6)

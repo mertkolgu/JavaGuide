@@ -9,8 +9,26 @@
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/NotesForOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_28/operators/NotesForOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/NotesForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/loops/NotesForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_01/basics/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_00/basics/Basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForConstant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForConstant.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForNull.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForTypeCasting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForTypeCasting.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForVariable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForVariable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_03/operators/NotesForOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_02/operators/NotesForOperators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_04/arrays/NotesForArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_04/arrays/NotesForRangeIn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForRangeIn.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_05/readline/NotesForReadLine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_04/readline/NotesForReadLine.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_06/variablescope/NotesForVariableScope.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_05/variablescope/NotesForVariableScope.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_07/flowcontrol/NotesForIfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_06/flowcontrol/NotesForIfElse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_07/flowcontrol/NotesForWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_06/flowcontrol/NotesForWhen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/BreakTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/BreakTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ContinueTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ContinueTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ForLoopTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ForLoopTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NamingForLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NamingForLoops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForDoWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForDoWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForLoops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForWhile.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ReturnTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ReturnTest.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,67 +72,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin._08.loops.NamingForLoopsKt">
-    <configuration name="com.kotlin._08.loops.BreakTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.kotlin._07.loops.ForLoopTestKt">
+    <configuration name="com.kotlin._07.loops.BreakTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.BreakTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.BreakTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._08.loops.ContinueTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._07.loops.ContinueTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.ContinueTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.ContinueTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._08.loops.NamingForLoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._07.loops.ForLoopTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.NamingForLoopsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.ForLoopTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._08.loops.NotesForDoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._07.loops.NamingForLoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.NotesForDoWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.NamingForLoopsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._08.loops.ReturnTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._07.loops.NotesForDoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.ReturnTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.NotesForDoWhileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin._08.loops.NamingForLoopsKt" />
-        <item itemvalue="Kotlin.com.kotlin._08.loops.ReturnTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._08.loops.ContinueTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._08.loops.BreakTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._08.loops.NotesForDoWhileKt" />
+        <item itemvalue="Kotlin.com.kotlin._07.loops.ForLoopTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._07.loops.NotesForDoWhileKt" />
+        <item itemvalue="Kotlin.com.kotlin._07.loops.NamingForLoopsKt" />
+        <item itemvalue="Kotlin.com.kotlin._07.loops.ContinueTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._07.loops.BreakTestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +189,7 @@
       <workItem from="1568309395785" duration="1064000" />
       <workItem from="1568311730309" duration="5233000" />
       <workItem from="1568377066139" duration="14683000" />
-      <workItem from="1568464888662" duration="974000" />
+      <workItem from="1568464888662" duration="2096000" />
     </task>
     <servers />
   </component>

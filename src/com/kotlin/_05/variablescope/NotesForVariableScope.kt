@@ -1,4 +1,4 @@
-package com.kotlin._06.variablescope
+package com.kotlin._05.variablescope
 
 var sayi: Int = 10
 

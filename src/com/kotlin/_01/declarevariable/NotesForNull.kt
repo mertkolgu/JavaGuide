@@ -1,4 +1,4 @@
-package com.kotlin._02.declarevariable
+package com.kotlin._01.declarevariable
 
 fun main() {
     // kotlinde null veri tipinin yanına ? işareti koyarak tanımlanıyor

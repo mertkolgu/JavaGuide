@@ -1,4 +1,4 @@
-package com.kotlin._03.operators
+package com.kotlin._02.operators
 
 fun main() {
     // aritmetik operatörler

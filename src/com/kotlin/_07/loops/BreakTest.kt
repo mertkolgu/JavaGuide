@@ -1,4 +1,4 @@
-package com.kotlin._08.loops
+package com.kotlin._07.loops
 
 fun main() {
 
@@ -10,7 +10,7 @@ fun main() {
     }
 
     for (harf in "mertkolgu@outlook.com") {
-        if (harf.equals("@")) {
+        if (harf == '@') {
             break
         }
         print(harf)
