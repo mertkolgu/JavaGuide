@@ -7,25 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/NotesForOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_28/operators/NotesForOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/NotesForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/loops/NotesForLoops.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +21,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -55,7 +40,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,79 +54,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadTest13">
-    <configuration name="ThreadTest09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest09" />
+  <component name="RunManager" selected="Kotlin.com.kotlin._08.loops.NamingForLoopsKt">
+    <configuration name="com.kotlin._08.loops.BreakTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._51.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.BreakTestKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest10" />
+    <configuration name="com.kotlin._08.loops.ContinueTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._51.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.ContinueTestKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest11" />
+    <configuration name="com.kotlin._08.loops.NamingForLoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._51.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.NamingForLoopsKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest12" />
+    <configuration name="com.kotlin._08.loops.NotesForDoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._51.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.NotesForDoWhileKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTest13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javase._51.thread.ThreadTest13" />
+    <configuration name="com.kotlin._08.loops.ReturnTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javase._51.thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._08.loops.ReturnTestKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadTest13" />
-        <item itemvalue="Application.ThreadTest12" />
-        <item itemvalue="Application.ThreadTest11" />
-        <item itemvalue="Application.ThreadTest10" />
-        <item itemvalue="Application.ThreadTest09" />
+        <item itemvalue="Kotlin.com.kotlin._08.loops.NamingForLoopsKt" />
+        <item itemvalue="Kotlin.com.kotlin._08.loops.ReturnTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._08.loops.ContinueTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._08.loops.BreakTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._08.loops.NotesForDoWhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +165,13 @@
       <workItem from="1567770050691" duration="7500000" />
       <workItem from="1567854837362" duration="47000" />
       <workItem from="1567855110054" duration="3633000" />
-      <workItem from="1567880023278" duration="6353000" />
+      <workItem from="1567880023278" duration="7054000" />
+      <workItem from="1567975293071" duration="377000" />
+      <workItem from="1568216765091" duration="116000" />
+      <workItem from="1568309395785" duration="1064000" />
+      <workItem from="1568311730309" duration="5233000" />
+      <workItem from="1568377066139" duration="14683000" />
+      <workItem from="1568464888662" duration="974000" />
     </task>
     <servers />
   </component>

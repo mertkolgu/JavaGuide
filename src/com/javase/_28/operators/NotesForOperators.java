@@ -8,7 +8,7 @@ public class NotesForOperators {
 // =
 
 // Compound Assignment Operator
-// +=, -=, *=, /= ...
+// +=, -=, *=, /=, %= ...
 
 // Equality & Relational Operators
 // <, <=, >, >=, ==, !=
@@ -19,6 +19,8 @@ public class NotesForOperators {
 
 // Increment/Decrement Operator ++, --
 // prefix ya da postfix
+// prefix -> ++number, --number
+// postfix -> number++, number--
 
 // Conditional Operator/Ternary Operator
 
@@ -32,3 +34,15 @@ public class NotesForOperators {
 
 // logical
 // &&, ||, !
+// and -> && -> bütün şartlar doğru ise true, en az bir şart yanlış ise false
+// or -> || -> en az bir tane şart doğru ise true, bütün şartlar yanlış ise false
+// not -> ! -> true ise false, false ise true yapar
+
+// işlem önceliği
+// () -> parantez
+// ++ ve -- değişkenden önce
+// ^
+// * ve /
+// + ve -
+// = atama
+// ++ ve -- değişkenden sonra

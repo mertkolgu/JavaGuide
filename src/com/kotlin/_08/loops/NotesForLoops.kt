@@ -1,6 +1,6 @@
-package com.javase._30.loops;
+package com.kotlin._08.loops
 
-public class NotesForLoops {
+fun main() {
     //
 }
 
