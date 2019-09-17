@@ -1,5 +1,5 @@
-# Java SE 8 & Kotlin Guide
+# Java 8+ & Kotlin Guide
 
-Java SE : https://github.com/mertkolgu/java-guide/tree/master/src/com/javase
+* [Java 8+](https://github.com/mertkolgu/java-guide/tree/master/src/com/javase)
 
-Kotlin : https://github.com/mertkolgu/java-guide/tree/master/src/com/kotlin
+* [Kotlin](https://github.com/mertkolgu/java-guide/tree/master/src/com/kotlin)

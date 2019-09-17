@@ -7,28 +7,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/ArraysTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/ArraysTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrayComparing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrayCopy.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArraySort.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_08/methods/MethodsTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_08/methods/MethodsTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_08/methods/NotesForMethodOverloaded.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_08/methods/NotesForMethods.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_09/math/MathTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_09/math/MathTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_09/math/NotesForMath.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_10/string/NotesForString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/ConstructorTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/ConstructorTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/ConstructorTest03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/NotesForConstructor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/NotesForOOP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_11/oop/OOPTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_12/inheritance/InheritanceTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_12/inheritance/InheritanceTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_12/inheritance/NotesForInheritance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_13/visibility/NotesForVisibilityModifiers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_14/polymorphism/NotesForPolymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_14/polymorphism/PolymorphismTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_14/polymorphism/PolymorphismTest02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_15/declareabstract/NotesForAbstract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_16/declareinterface/NotesForInterface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_01/basics/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_00/basics/Basics.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForConstant.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForConstant.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForNull.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForNull.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForTypeCasting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForTypeCasting.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_02/declarevariable/NotesForVariable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForVariable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_03/operators/NotesForOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_02/operators/NotesForOperators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_04/arrays/NotesForArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrays.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_04/arrays/NotesForRangeIn.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForRangeIn.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_05/readline/NotesForReadLine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_04/readline/NotesForReadLine.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_06/variablescope/NotesForVariableScope.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_05/variablescope/NotesForVariableScope.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_07/flowcontrol/NotesForIfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_06/flowcontrol/NotesForIfElse.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_07/flowcontrol/NotesForWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_06/flowcontrol/NotesForWhen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/BreakTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/BreakTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ContinueTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ContinueTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ForLoopTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ForLoopTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NamingForLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NamingForLoops.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForDoWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForDoWhile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForLoops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForLoops.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/NotesForWhile.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/NotesForWhile.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_08/loops/ReturnTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_07/loops/ReturnTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_12/referencecasting/NotesForReferenceCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/referencecasting/NotesForReferenceCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForVariable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_01/declarevariable/NotesForVariable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_03/arrays/NotesForArrays.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +54,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -55,10 +69,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-basic-examples" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,67 +86,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin._07.loops.ForLoopTestKt">
-    <configuration name="com.kotlin._07.loops.BreakTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.kotlin._15.declareabstract.NotesForAbstractKt">
+    <configuration name="com.kotlin._12.inheritance.InheritanceTest02Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.BreakTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._12.inheritance.InheritanceTest02Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._07.loops.ContinueTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._14.polymorphism.NotesForPolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.ContinueTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._14.polymorphism.NotesForPolymorphismKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._07.loops.ForLoopTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._14.polymorphism.PolymorphismTest01Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.ForLoopTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._14.polymorphism.PolymorphismTest01Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._07.loops.NamingForLoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._14.polymorphism.PolymorphismTest02Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.NamingForLoopsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._14.polymorphism.PolymorphismTest02Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._07.loops.NotesForDoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._15.declareabstract.NotesForAbstractKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._07.loops.NotesForDoWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._15.declareabstract.NotesForAbstractKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin._07.loops.ForLoopTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._07.loops.NotesForDoWhileKt" />
-        <item itemvalue="Kotlin.com.kotlin._07.loops.NamingForLoopsKt" />
-        <item itemvalue="Kotlin.com.kotlin._07.loops.ContinueTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._07.loops.BreakTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._15.declareabstract.NotesForAbstractKt" />
+        <item itemvalue="Kotlin.com.kotlin._14.polymorphism.PolymorphismTest02Kt" />
+        <item itemvalue="Kotlin.com.kotlin._14.polymorphism.PolymorphismTest01Kt" />
+        <item itemvalue="Kotlin.com.kotlin._14.polymorphism.NotesForPolymorphismKt" />
+        <item itemvalue="Kotlin.com.kotlin._12.inheritance.InheritanceTest02Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +203,12 @@
       <workItem from="1568309395785" duration="1064000" />
       <workItem from="1568311730309" duration="5233000" />
       <workItem from="1568377066139" duration="14683000" />
-      <workItem from="1568464888662" duration="2096000" />
+      <workItem from="1568464888662" duration="3527000" />
+      <workItem from="1568551089254" duration="17381000" />
+      <workItem from="1568620549604" duration="12064000" />
+      <workItem from="1568713062766" duration="13629000" />
+      <workItem from="1568745006267" duration="252000" />
+      <workItem from="1568747744203" duration="1113000" />
     </task>
     <servers />
   </component>

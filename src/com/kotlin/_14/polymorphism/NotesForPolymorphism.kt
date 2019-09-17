@@ -1,7 +1,35 @@
-package com.javase._11.polymorphism;
+package com.kotlin._14.polymorphism
 
-public class NotesForPolymorphism {
-    //
+open class Asker {
+    open fun selamVer() {
+        println("Asker selam verdi.")
+    }
+}
+
+class Yuzbasi : Asker() {
+    override fun selamVer() {
+        println("Yüzbaşı selam verdi.")
+    }
+}
+
+class Er : Asker() {
+    override fun selamVer() {
+        println("Er selam verdi.")
+    }
+}
+
+fun hazirOl(asker: Asker) {
+    asker.selamVer()
+}
+
+fun main() {
+    var asker = Asker()
+    var yuzbasi = Yuzbasi()
+    var er = Er()
+
+    hazirOl(asker)
+    hazirOl(yuzbasi)
+    hazirOl(er)
 }
 
 // polymorphism -> çok biçimlilik
@@ -12,8 +40,6 @@ public class NotesForPolymorphism {
 
 // super class'ta bulunan bir method subclass'ta override edilmemiş ise
 // super class'taki method çağrılır.
-
-// intanceof objenin class'a ait olup olmadığını gösterir.
 
 // static -> overloaded // early binding
 // dynamic -> override  // late binding override kavramı kalıtım extends/implements geçerlidir!

@@ -10,7 +10,9 @@ fun main() {
 
     // kotlinde bir dizi birden fazla farklı türdeki elemanı saklayabilir
     var degiskenler: Array<Any> = arrayOf(1, "mert", true)
-    println(degiskenler.get(1))
+    for (i in degiskenler) {
+        println(i)
+    }
 
     // otomatik olarak veri tipini algılıyor
     var gunler = arrayOf("pazartesi", "salı", "çarşamba")

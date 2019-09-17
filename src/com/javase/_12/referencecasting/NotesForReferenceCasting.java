@@ -97,5 +97,5 @@ public class NotesForReferenceCasting {
     }
 }
 
-// upcasting
-// downcasting
+// upcasting -> yukarıya çevrim
+// downcasting -> aşağıya çevrim

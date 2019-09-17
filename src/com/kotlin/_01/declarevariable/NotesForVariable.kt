@@ -75,3 +75,5 @@ fun main() {
 // var sayi: Int
 // sayi = 5
 // println("sayı = " + sayi)
+
+// değişkenler defaul olarak "public final" olarak tanımlanır.
