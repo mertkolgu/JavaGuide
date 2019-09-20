@@ -20,7 +20,6 @@ open class Kedi : Kedigiller() {
     override fun takipEt() {
         println("Kedi class takip et çalıştı.")
     }
-
 }
 
 class Kaplan : Kedi() {
