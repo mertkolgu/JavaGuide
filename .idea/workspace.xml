@@ -7,21 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_16/declareinterface/InterfaceTest01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_16/declareinterface/NotesForComposition.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_17/classes/NotesForAnonymousInnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_17/classes/NotesForDataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_17/classes/NotesForEnum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_17/classes/NotesForGetterSetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_17/classes/NotesForNestedAndInnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_18/statics/NotesForStatics.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_18/statics/StaticsTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_19/generics/GenericsTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_19/generics/NotesForGenerics.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folders/kotlin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForCollection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_21/exception/ExceptionTest01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_21/exception/NotesForException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_22/file/NotesForFileReader.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_22/file/NotesForFileWriter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/ExtensionFunctionTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/HighOrderAndLambdaTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForHighOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForOperatorOverloading.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForRecursiveFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/_16/declareinterface/NotesForInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/_16/declareinterface/NotesForInterface.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +52,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-basic-examples" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -65,67 +70,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin._19.generics.GenericsTestKt">
-    <configuration name="com.kotlin._17.classes.NotesForDataClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.com.kotlin._23.function.NotesForWithAndApplyKt">
+    <configuration name="com.kotlin._23.function.HighOrderAndLambdaTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._17.classes.NotesForDataClassKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.HighOrderAndLambdaTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._17.classes.NotesForEnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._23.function.LamdaTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._17.classes.NotesForEnumKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.LamdaTestKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._17.classes.NotesForGetterSetterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._23.function.NotesForHighOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._17.classes.NotesForGetterSetterKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForHighOrderFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._19.generics.GenericsTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._23.function.NotesForRecursiveFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._19.generics.GenericsTestKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForRecursiveFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._19.generics.NotesForGenericsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kotlin._23.function.NotesForWithAndApplyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="java-guide" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._19.generics.NotesForGenericsKt" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForWithAndApplyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin._19.generics.GenericsTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._19.generics.NotesForGenericsKt" />
-        <item itemvalue="Kotlin.com.kotlin._17.classes.NotesForEnumKt" />
-        <item itemvalue="Kotlin.com.kotlin._17.classes.NotesForGetterSetterKt" />
-        <item itemvalue="Kotlin.com.kotlin._17.classes.NotesForDataClassKt" />
+        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForWithAndApplyKt" />
+        <item itemvalue="Kotlin.com.kotlin._23.function.LamdaTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._23.function.HighOrderAndLambdaTestKt" />
+        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForHighOrderFunctionKt" />
+        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForRecursiveFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +196,10 @@
       <workItem from="1568915321160" duration="677000" />
       <workItem from="1568916025262" duration="1648000" />
       <workItem from="1568966416461" duration="14470000" />
+      <workItem from="1569020290886" duration="273000" />
+      <workItem from="1569023313954" duration="295000" />
+      <workItem from="1569055284622" duration="1047000" />
+      <workItem from="1569056894432" duration="17543000" />
     </task>
     <servers />
   </component>
