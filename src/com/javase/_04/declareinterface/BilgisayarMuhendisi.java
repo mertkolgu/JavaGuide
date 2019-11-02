@@ -1,7 +1,6 @@
 package com.javase._04.declareinterface;
 
 public class BilgisayarMuhendisi implements Muhendis {
-
     private boolean askerlik;
     private boolean adliSicil;
 

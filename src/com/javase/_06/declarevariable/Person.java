@@ -1,15 +1,12 @@
 package com.javase._06.declarevariable;
 
 public class Person {
-
     private int age;    // instance variable
     // access modifier olarak private, protected, public olabilir!
     // değişken abstract OLAMAZ!
-
     private static int number;  // static variable
 
     void method() {
-
         String name = "user";   // local variable
         // local değişkenler access modifier ALAMAZ!
         // private, protected, public vs. OLAMAZ!

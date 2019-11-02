@@ -7,26 +7,541 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85ca649c-5580-4487-b90a-8a27754a4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/folders/kotlin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForCollection.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForImmutableSet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableMap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_20/collection/NotesForMutableSet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_21/exception/ExceptionTest01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_21/exception/NotesForException.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_22/file/NotesForFileReader.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_22/file/NotesForFileWriter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/ExtensionFunctionTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/HighOrderAndLambdaTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForExtensionFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForHighOrderFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForOperatorOverloading.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/_23/function/NotesForRecursiveFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_36/string/EqualsContractTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_42/locale/LocaleTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_44/patternandmatcher/NotesForPatternAndMatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_44/patternandmatcher/PatternAndMatcherTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_44/patternandmatcher/PatternAndMatcherTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/HashtableTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/LinkedHashMap01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/MapTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/TreeMapTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_48/comparable/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_48/comparable/ComparableTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_48/comparable/ComparableTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_48/comparable/NotesForComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_49/comparator/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_49/comparator/ComparatorTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/NotesForGenerics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-guide/META-INF/java-guide.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folders/folder/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-guide/com/javase/_71/propertyresourcebundle/file_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-guide/com/javase/_71/propertyresourcebundle/file_tr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_00/methods/MethodsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_07/methods/MethodsTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_00/methods/MethodsTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_07/methods/MethodsTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_00/methods/MethodsTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_07/methods/MethodsTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_00/methods/MethodsTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_07/methods/MethodsTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_00/methods/NotesForMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_07/methods/NotesForMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_01/identifier/NotesForIdentifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_01/identifier/NotesForIdentifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForClassAndInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForClassAndInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForPackage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForPackage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForVariableAndConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/NotesForVariableAndConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_02/namingstandart/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/AbstractTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/AbstractTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/FinalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForSourceFileRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/NotesForSourceFileRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack1/Public.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack1/Public.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Default1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Default1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Default2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Default2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Public2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_03/declareclass/pack2/Public2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/BilgisayarMuhendisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/BilgisayarMuhendisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/Calisma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/Calisma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/InterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/InterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MakineMuhendisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MakineMuhendisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/Muhendis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/Muhendis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MuhendisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MuhendisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/NotesForInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_04/declareinterface/NotesForInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_05/declaremembers/NotesForModifiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_06/declarevariable/NotesForVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_06/declarevariable/NotesForVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_06/declarevariable/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_06/declarevariable/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_07/enums/CoffeeSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_09/enums/CoffeeSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_07/enums/EmployeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_09/enums/EmployeeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_07/enums/EnumTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_09/enums/EnumTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_07/enums/EnumTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_09/enums/EnumTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_07/enums/NotesForEnums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_09/enums/NotesForEnums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_08/vararg/NotesForVararg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_10/vararg/NotesForVararg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_08/vararg/VarargTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_10/vararg/VarargTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_09/encapsulation/NotesForEncapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_11/encapsulation/NotesForEncapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_09/encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_11/encapsulation/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/HAS_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/HAS_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/IS_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/IS_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/InheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/NotesForIS_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/NotesForIS_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_10/inheritance/NotesForInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_12/inheritance/NotesForInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/CircleBestExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/CircleBestExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForOverloaded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/NotesForOverloaded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/NotesForOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForOverrideVSOverloaded.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/NotesForOverrideVSOverloaded.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/NotesForPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/NotesForPolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/OverloadedExampleCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/OverloadedExampleCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/OverloadedTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/OverloadedTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/OverloadedTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/OverloadedTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/OverloadedTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/OverloadedTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/OverrideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/OverrideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_11/polymorphism/PolymorphismTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_13/polymorphism/PolymorphismTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_12/referencecasting/NotesForReferenceCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_14/referencecasting/NotesForReferenceCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_12/referencecasting/ReferenceCastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_14/referencecasting/ReferenceCastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_13/returntypes/NotesForReturnTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_15/returntypes/NotesForReturnTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_13/returntypes/ReturnTypesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_15/returntypes/ReturnTypesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_14/constructor/ConstructorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_16/constructor/ConstructorTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_14/constructor/ConstructorTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_16/constructor/ConstructorTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_14/constructor/ConstructorTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_16/constructor/ConstructorTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_14/constructor/NotesForConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_16/constructor/NotesForConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_14/constructor/NotesForConstructorChaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_16/constructor/NotesForConstructorChaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_15/statics/Frog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_17/statics/Frog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_15/statics/NotesForStatics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_17/statics/NotesForStatics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_15/statics/StaticsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_17/statics/StaticsTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_15/statics/StaticsTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_17/statics/StaticsTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_16/coupling/NotesForCoupling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_18/coupling/NotesForCoupling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_17/cohesion/NotesForCohesion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_19/cohesion/NotesForCohesion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_18/literals/LiteralsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_20/literals/LiteralsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_18/literals/NotesForLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_20/literals/NotesForLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_19/assignment/NotesForAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_21/assignment/NotesForAssignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_19/assignment/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_21/assignment/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_19/assignment/PersonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_21/assignment/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_19/assignment/PrimitiveAssignmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_21/assignment/PrimitiveAssignmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_20/variablescope/NotesForVariableScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_22/variablescope/NotesForVariableScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_20/variablescope/ScopeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_22/variablescope/ScopeTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_21/initialize/InitializeTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_23/initialize/InitializeTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_21/initialize/InitializeTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_23/initialize/InitializeTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_21/initialize/NotesForInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_23/initialize/NotesForInitialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_22/passingvariable/NotesForPassingVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_24/passingvariable/NotesForPassingVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_22/passingvariable/PassingPrimitiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_24/passingvariable/PassingPrimitiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayInitialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayListTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayListTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayListTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayMultiDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayMultiDimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayMultiDimensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayMultiDimensionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/ArrayTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/ArrayTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_23/arrays/NotesForArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_25/arrays/NotesForArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_24/initializeblocks/InitializeBlocksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_26/initializeblocks/InitializeBlocksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_24/initializeblocks/NotesForInitializeBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_26/initializeblocks/NotesForInitializeBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/NotesForWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/NotesForWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_25/wrapper/WrapperTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_27/wrapper/WrapperTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_26/moreoverloaded/MoreOverloadedTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_28/moreoverloaded/MoreOverloadedTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_26/moreoverloaded/MoreOverloadedTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_28/moreoverloaded/MoreOverloadedTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_27/garbagecollection/GarbageCollectionTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_29/garbagecollection/GarbageCollectionTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_27/garbagecollection/GarbageCollectionTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_29/garbagecollection/GarbageCollectionTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_27/garbagecollection/NotesForGarbageCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_29/garbagecollection/NotesForGarbageCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/NotesForOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/NotesForOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_28/operators/OperatorsTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_30/operators/OperatorsTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/IfElseTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/IfElseTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/IfElseTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/IfElseTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/NotesForIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/NotesForIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/NotesForSwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/NotesForSwitchCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_29/flowcontrol/SwitchCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_31/flowcontrol/SwitchCaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/BreakTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/BreakTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ContinueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ContinueTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ContinueTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ContinueTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/DoWhileLoopTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/DoWhileLoopTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ForLoopTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ForLoopTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ForLoopTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ForLoopTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ForLoopTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ForLoopTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/ForLoopTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/ForLoopTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/NotesForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/NotesForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_30/loops/WhileLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_32/loops/WhileLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_31/exceptionhandling/ExceptionHandlingTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhandling/ExceptionHandlingTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_31/exceptionhandling/ExceptionHandlingTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhandling/ExceptionHandlingTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_31/exceptionhandling/ExceptionHandlingTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhandling/ExceptionHandlingTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_31/exceptionhandling/NotesForExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_33/exceptionhandling/NotesForExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_32/duckedexception/NotesForDuckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_34/duckedexception/NotesForDuckedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/ExceptionHierarchyTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/ExceptionHierarchyTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_33/exceptionhierarchy/NotesForExceptionHierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_35/exceptionhierarchy/NotesForExceptionHierarchy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/EqualsContractTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/EqualsContractTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/EqualsContractTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/NotesForEqualsContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/NotesForEqualsContract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/NotesForString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/NotesForString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/NotesForToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/NotesForToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/StringTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/StringTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/StringTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/StringTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/StringTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/StringTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_34/string/StringTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_36/string/StringTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_35/stringbufferandstringbuilder/NotesForStringBufferAndStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_37/stringbufferandstringbuilder/NotesForStringBufferAndStringBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_35/stringbufferandstringbuilder/StringBufferAndStringBuilderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_37/stringbufferandstringbuilder/StringBufferAndStringBuilderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/FileTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/FileTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForBuffered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/NotesForBuffered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/NotesForFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForFileWriterAndReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/NotesForFileWriterAndReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_36/file/NotesForPrintWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_38/file/NotesForPrintWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/NotesForStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_39/stream/NotesForStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_39/stream/StreamTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_39/stream/StreamTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_37/stream/StreamTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_39/stream/StreamTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/NotesForSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_40/serializable/NotesForSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_40/serializable/SerializableTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_40/serializable/SerializableTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_38/serializable/SerializableTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_40/serializable/SerializableTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_39/dateandcalendar/DateFormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_41/dateandcalendar/DateFormatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_39/dateandcalendar/NotesForCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_41/dateandcalendar/NotesForCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_39/dateandcalendar/NotesForDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_41/dateandcalendar/NotesForDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_39/dateandcalendar/NotesForDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_41/dateandcalendar/NotesForDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_39/dateandcalendar/NotesForSimpleDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_41/dateandcalendar/NotesForSimpleDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_40/locale/LocaleTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_40/locale/LocaleTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_42/locale/LocaleTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_40/locale/NotesForLocale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_42/locale/NotesForLocale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_41/numberformat/NotesForNumberFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_43/numberformat/NotesForNumberFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_41/numberformat/NumberFormatTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_43/numberformat/NumberFormatTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_41/numberformat/NumberFormatTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_43/numberformat/NumberFormatTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_42/patternandmatcher/NotesForPatternAndMatcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_42/patternandmatcher/PatternAndMatcherTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_44/patternandmatcher/PatternAndMatcherTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_42/patternandmatcher/PatternAndMatcherTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_42/patternandmatcher/PatternAndMatcherTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_43/tokenizing/NotesForTokenizing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/tokenizing/NotesForTokenizing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_43/tokenizing/TokenizingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_45/tokenizing/TokenizingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_44/hashcode/NotesForHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_46/hashcode/NotesForHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/IterableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/IterableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/IteratorTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/IteratorTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/IteratorTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/ListTest17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/ListTest17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/MapTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/MapTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/MapTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/MapTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/NotesForCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/NotesForCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/PriorityQueueTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/PriorityQueueTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/PriorityQueueTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/SetTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/SetTest10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_45/collection/VectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_47/collection/VectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/NotesForClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/NotesForClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/OuterClassTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/OuterClassTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/OuterClassTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/OuterClassTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/OuterClassTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/OuterClassTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/OuterClassTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/OuterClassTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_46/classes/OuterClassTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_51/classes/OuterClassTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_47/methodlocalinner/LocalInnerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_52/methodlocalinner/LocalInnerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_47/methodlocalinner/NotesForMethodLocalInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_52/methodlocalinner/NotesForMethodLocalInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_48/anonymousinnerclass/AnonymousInnerClassTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_53/anonymousinnerclass/AnonymousInnerClassTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_48/anonymousinnerclass/AnonymousInnerClassTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_53/anonymousinnerclass/AnonymousInnerClassTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_48/anonymousinnerclass/AnonymousInnerClassTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_53/anonymousinnerclass/AnonymousInnerClassTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_48/anonymousinnerclass/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_53/anonymousinnerclass/Bar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_48/anonymousinnerclass/PopCorn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_53/anonymousinnerclass/PopCorn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_49/staticnestedclass/BillPughSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_54/staticnestedclass/BillPughSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_49/staticnestedclass/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_54/staticnestedclass/OuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_49/staticnestedclass/OuterClassTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_54/staticnestedclass/OuterClassTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_49/staticnestedclass/OuterClassTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_54/staticnestedclass/OuterClassTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_50/nestedinterface/NotesForNestedInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_55/nestedinterface/NotesForNestedInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_50/nestedinterface/OuterInterfaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_55/nestedinterface/OuterInterfaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/AccountDanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/AccountDanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/CreateThreadObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/CreateThreadObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/HelloWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/LoopThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/LoopThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/MyRunnableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/MyRunnableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/MyThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/MyThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForSynchronized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThreadJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadPriority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThreadPriority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThreadSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThreadSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/NotesForThreadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/NotesForThreadState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/StartThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/StartThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/SynchronizedTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/SynchronizedTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/SynchronizedTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/SynchronizedTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/SynchronizedTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadSleepTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadSleepTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadSleepTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadSleepTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_51/thread/ThreadTest13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_56/thread/ThreadTest13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/FunctionalInterfacesTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/FunctionalInterfacesTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/LambdaTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_52/functionalinterfaces/NotesForFunctionalInterfaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_53/interfaces/DiamondProblemTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_53/interfaces/DiamondProblemTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_53/interfaces/DiamondSyntaxTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_53/interfaces/InterfaceFeatureTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_53/interfaces/InterfaceFeatureTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_54/predicate/PredicateTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_54/predicate/PredicateTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_54/predicate/PredicateTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_54/predicate/PredicateTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_54/predicate/PredicateTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_55/consumer/ConsumerTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_55/consumer/ConsumerTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_56/function/FunctionTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_56/function/FunctionTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_56/function/FunctionTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_56/function/FunctionTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_56/function/FunctionTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_57/supplier/SupplierTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_57/supplier/SupplierTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_57/supplier/SupplierTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_57/supplier/SupplierTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_58/primitive/PrimitiveConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_58/primitive/PrimitiveFunctionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_58/primitive/PrimitivePredicateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_58/primitive/PrimitiveSupplierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_59/binary/BiConsumerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_59/binary/BiFunctionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_59/binary/BiPredicateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_60/unary/UnaryOperatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/NotesForStreamSources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_61/streamsources/StreamSourcesTest10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/InfiniteTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateDistinctTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFilterTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFilterTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFilterTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFlatMapTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFlatMapTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateFlatMapTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateMapTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateMapTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediatePeekTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateSkipAndLimitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_62/streamintermediate/IntermediateSortedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CollectTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/CountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/FindAnyFindFirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/FindFirstTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ForEachTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MatchTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MatchTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MinMaxTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/MinMaxTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_63/streamterminal/ReduceTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/AverageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/DoubleStreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/IntStreamTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/IntStreamTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/MapToIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/StatisticsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_64/streamprimitive/SumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/AveragingIntTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/CountingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/GroupingByTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/GroupingByTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/JoiningTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/PartitioningByTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/ToMapTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/ToMapTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_65/streamadvance/ToMapTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_66/optional/OptionalTest10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/NotesForDateTimeApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/Travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_01/localdate/LocalDateTest08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_02/localtime/LocalDateTimeTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_02/localtime/LocalTimeTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_02/localtime/LocalTimeTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_02/localtime/LocalTimeTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_02/localtime/LocalTimeTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_03/localdatetime/LocalDateTimeTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_03/localdatetime/LocalDateTimeTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_03/localdatetime/LocalDateTimeTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_03/localdatetime/LocalDateTimeTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_04/zoneid/TimeDifference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_04/zoneid/ZoneIdTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_04/zoneid/ZoneOffSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_05/zoneddatetime/ZonedDateTimeTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_05/zoneddatetime/ZonedDateTimeTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_06/instant/InstantTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_07/period/PeriodTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_07/period/PeriodTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_07/period/PeriodTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_08/duration/DurationTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_08/duration/DurationTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_08/duration/DurationTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_09/chronounit/ChronoUnitDurationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_09/chronounit/ChronoUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_10/format/DateTimeFormatterTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_67/datetimeapi/_10/format/DateTimeFormatterTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_68/multicatch/MultiCatchTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_68/multicatch/MultiCatchTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/NotesForTryWithResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_69/trywithresource/TryWithResourceTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_70/suppressedexception/SuppressedExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_71/propertyresourcebundle/PropertyResourceBundleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_71/propertyresourcebundle/file_en.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_71/propertyresourcebundle/file_tr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_72/listresourcebundle/ListResourceBundleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_72/listresourcebundle/Message_en.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_72/listresourcebundle/Message_tr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_73/pathnio/PathTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_74/path/PathTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_75/files/FilesTest06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_76/attributes/AttributesTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_77/filestream/FilesStreamTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_78/atomic/AtomicTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_78/atomic/AtomicTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_79/concurrentcollections/COWListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_79/concurrentcollections/ModifyingListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_79/concurrentcollections/ZooManagerBadTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_79/concurrentcollections/ZooManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_80/synchronizedcollections/SynchronizedCollectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_81/executor/ExecutorServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_82/callable/CallableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_83/scheduledexecutorservice/ScheduledExecutorServiceTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_83/scheduledexecutorservice/ScheduledExecutorServiceTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_83/scheduledexecutorservice/ScheduledExecutorServiceTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_83/scheduledexecutorservice/ScheduledExecutorServiceTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_84/cyclicbarrier/CyclicBarrierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_84/cyclicbarrier/WithOutCyclicBarrierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_85/forkandjoin/ForkAndJoinTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_85/forkandjoin/ForkAndJoinTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_85/forkandjoin/SumOfNUsingForkJoin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_85/forkandjoin/WeighAnimalRecursiveAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_85/forkandjoin/WeighAnimalRecursiveTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamCollectTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamCollectTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamFindAnyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamGroupingByConcurrentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamReduceTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamTest07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamToConcurrentMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_86/parallelstream/ParallelStreamUnorderedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_87/scanners/NotesForScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_08/scanners/NotesForScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_87/scanners/ScannerTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_08/scanners/ScannerTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_87/scanners/ScannerTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_08/scanners/ScannerTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_87/scanners/ScannerTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_08/scanners/ScannerTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_87/scanners/ScannerTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_08/scanners/ScannerTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_88/generics/GenericClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_88/generics/GenericMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_88/generics/GenericsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javase/_50/generics/GenericsTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javase/_88/generics/NotesForGenerics.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +554,8 @@
       <list>
         <option value="Interface" />
         <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,7 +568,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -70,79 +586,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.kotlin._23.function.NotesForWithAndApplyKt">
-    <configuration name="com.kotlin._23.function.HighOrderAndLambdaTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.NotesForVariable">
+    <configuration name="LoopThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._56.thread.LoopThreadTest" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.HighOrderAndLambdaTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._56.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._23.function.LamdaTestKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="NotesForThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._56.thread.NotesForThreadJoin" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.LamdaTestKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._56.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._23.function.NotesForHighOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="NotesForVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._06.declarevariable.NotesForVariable" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForHighOrderFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._06.declarevariable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._23.function.NotesForRecursiveFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveAssignmentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._21.assignment.PrimitiveAssignmentTest" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForRecursiveFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._21.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin._23.function.NotesForWithAndApplyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreadSleepTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javase._56.thread.ThreadSleepTest01" />
       <module name="java-guide" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.kotlin._23.function.NotesForWithAndApplyKt" />
-      <option name="WORKING_DIRECTORY" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javase._56.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForWithAndApplyKt" />
-        <item itemvalue="Kotlin.com.kotlin._23.function.LamdaTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._23.function.HighOrderAndLambdaTestKt" />
-        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForHighOrderFunctionKt" />
-        <item itemvalue="Kotlin.com.kotlin._23.function.NotesForRecursiveFunctionKt" />
+        <item itemvalue="Application.NotesForVariable" />
+        <item itemvalue="Application.PrimitiveAssignmentTest" />
+        <item itemvalue="Application.NotesForThreadJoin" />
+        <item itemvalue="Application.ThreadSleepTest01" />
+        <item itemvalue="Application.LoopThreadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +716,30 @@
       <workItem from="1569023313954" duration="295000" />
       <workItem from="1569055284622" duration="1047000" />
       <workItem from="1569056894432" duration="17543000" />
+      <workItem from="1569184403982" duration="248000" />
+      <workItem from="1569599395159" duration="82000" />
+      <workItem from="1569937893500" duration="77000" />
+      <workItem from="1569938180893" duration="33000" />
+      <workItem from="1570092199957" duration="38000" />
+      <workItem from="1570448051490" duration="86000" />
+      <workItem from="1570537006909" duration="64000" />
+      <workItem from="1571727459977" duration="12219000" />
+      <workItem from="1571899407205" duration="5222000" />
+      <workItem from="1571990542087" duration="15808000" />
+      <workItem from="1572078042117" duration="7681000" />
+      <workItem from="1572164762541" duration="10286000" />
+      <workItem from="1572282318545" duration="2213000" />
+      <workItem from="1572358498824" duration="6670000" />
+      <workItem from="1572376967169" duration="5194000" />
+      <workItem from="1572427219354" duration="10871000" />
+      <workItem from="1572453683884" duration="1834000" />
+      <workItem from="1572464327432" duration="7204000" />
+      <workItem from="1572511493107" duration="4783000" />
+      <workItem from="1572523516558" duration="2994000" />
+      <workItem from="1572600176722" duration="8445000" />
+      <workItem from="1572641685293" duration="6503000" />
+      <workItem from="1572688064732" duration="191000" />
+      <workItem from="1572688290668" duration="2581000" />
     </task>
     <servers />
   </component>

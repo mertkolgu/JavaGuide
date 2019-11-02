@@ -14,7 +14,6 @@ public interface InterfaceTest {
 class Test {
 
     public static void main(String[] args) {
-
         System.out.println(InterfaceTest.a);
         System.out.println(InterfaceTest.b);
         System.out.println(InterfaceTest.c);

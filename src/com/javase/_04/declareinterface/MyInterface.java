@@ -1,7 +1,6 @@
 package com.javase._04.declareinterface;
 
 public interface MyInterface {
-
     void testMethod();  // abstract method
 }
 

@@ -8,6 +8,6 @@ public class NotesForMethod {
 // fiil-isim(verb-noun) şeklinde olmalı.
 // camelCase yapıda olmalı.
 
-// metodları olabildiğince parçalara bölüp çalışmak faydalıdır.
+// metotları olabildiğince parçalara bölüp çalışmak faydalıdır.
 // getCustomerName
 // getCustomerBalance

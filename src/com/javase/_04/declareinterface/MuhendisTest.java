@@ -3,7 +3,6 @@ package com.javase._04.declareinterface;
 public class MuhendisTest {
 
     public static void main(String[] args) {
-
         System.out.println("BİLGİSAYAR MÜHENDİSİ");
         BilgisayarMuhendisi muhendis = new BilgisayarMuhendisi(false, false);
         String[] isler = {"Vestel", "Havelsan"};

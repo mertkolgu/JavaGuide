@@ -1,7 +1,6 @@
 package com.javase._02.namingstandart;
 
 public class Student {
-
     private int id;
     private String name;
     private String surname;

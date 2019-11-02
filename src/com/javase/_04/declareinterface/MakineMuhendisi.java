@@ -1,7 +1,6 @@
 package com.javase._04.declareinterface;
 
 public class MakineMuhendisi implements Muhendis, Calisma {
-
     private boolean askerlik;
     private boolean adliSicil;
 

@@ -15,24 +15,23 @@ public class NotesForVariable {
     int[] array;            // reference type
 
     public static void main(String[] args) {
+        System.out.println("Byte MAX : " + Byte.MAX_VALUE); // 127
+        System.out.println("Byte MIN : " + Byte.MIN_VALUE); // -128
 
-        System.out.println("Byte MAX : " + Byte.MAX_VALUE);
-        System.out.println("Byte MIN : " + Byte.MIN_VALUE);
+        System.out.println("Short MAX : " + Short.MAX_VALUE);   // 32767
+        System.out.println("Short MIN : " + Short.MIN_VALUE);   // -32768
 
-        System.out.println("Short MAX : " + Short.MAX_VALUE);
-        System.out.println("Short MIN : " + Short.MAX_VALUE);
+        System.out.println("Integer MAX : " + Integer.MAX_VALUE);   // 2147483647
+        System.out.println("Integer MIN : " + Integer.MIN_VALUE);   // -2147483648
 
-        System.out.println("Integer MAX : " + Integer.MAX_VALUE);
-        System.out.println("Integer MIN : " + Integer.MIN_VALUE);
+        System.out.println("Float MAX : " + Float.MAX_VALUE);   // 3.4028235E38
+        System.out.println("Float MIN : " + Float.MIN_VALUE);   // 1.4E-45
 
-        System.out.println("Float MAX : " + Float.MAX_VALUE);
-        System.out.println("Float MIN : " + Float.MAX_VALUE);
+        System.out.println("Long MAX : " + Long.MAX_VALUE); // 9223372036854775807
+        System.out.println("Long MIN : " + Long.MIN_VALUE); // -9223372036854775808
 
-        System.out.println("Long MAX : " + Long.MAX_VALUE);
-        System.out.println("Long MIN : " + Long.MIN_VALUE);
-
-        System.out.println("Double MAX : " + Double.MAX_VALUE);
-        System.out.println("Double MIN : " + Double.MIN_VALUE);
+        System.out.println("Double MAX : " + Double.MAX_VALUE); // 1.7976931348623157E308
+        System.out.println("Double MIN : " + Double.MIN_VALUE); // 4.9E-324
     }
 }
 

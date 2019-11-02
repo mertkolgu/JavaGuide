@@ -10,6 +10,6 @@ public class NotesForClassAndInterface {
 // class ismi noun(isim) olmalı.
 // Person, Account...
 
-// interface ismi adjective(sifat) olmalı.
+// interface ismi adjective(sıfat) olmalı.
 // public interface Serializable
 // public interface Runnable
