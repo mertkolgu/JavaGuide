@@ -11,7 +11,6 @@ public class FileTest04 {
         try {
             writer = new FileWriter("folders/file2.txt", true);
             // true ile dosyanın sonundan yazmaya devam eder
-
             writer.write("Java Programming Language\n");
             writer.write("Mert Kolğu\n");
         } catch (IOException e) {

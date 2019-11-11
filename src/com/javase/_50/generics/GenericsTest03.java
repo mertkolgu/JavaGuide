@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class GenericsTest03 {
-
     public static void main(String[] args) {
         Animal animalRef = new Dog();
         // Dog IS-A Animal
@@ -29,26 +28,25 @@ public class GenericsTest03 {
         // metot eğer List<Animal> gibi bir şey alıyorsa bu durumda List<Animal> verilmelidir.
         // Dog IS-A Animal olsa da List<Dog> argümanı buraya verilemez!!!
     }
-
     public static void arrayRuleV1(Animal[] arrayAnimal) {
         arrayAnimal[0] = new Dog();
-        // arrayAnimal[1] = new Cat(); // java.lang.ArrayStoreException: com.javase._88.generics.Cat
+        // arrayAnimal[1] = new Cat(); // java.lang.ArrayStoreException: com.javase._50.generics.Cat
     }
-
     public static void listRuleV1(List<Animal> animalList) {
         animalList.add(new Dog());
         animalList.add(new Cat());
     }
 }
-
 class Animal {
     //
 }
-
 class Dog extends Animal {
     //
 }
-
 class Cat extends Animal {
     //
 }
+
+
+
+

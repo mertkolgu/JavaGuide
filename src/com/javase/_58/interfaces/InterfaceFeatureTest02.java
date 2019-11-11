@@ -1,4 +1,4 @@
-package com.javase._53.interfaces;
+package com.javase._58.interfaces;
 
 interface Animal {
 
@@ -16,7 +16,6 @@ interface Animal {
 }
 
 class Dog implements Animal {
-
     // interface'lerde yer alan default metotları override edebiliriz!!!
     @Override
     public void run() {
@@ -27,7 +26,6 @@ class Dog implements Animal {
 public class InterfaceFeatureTest02 {
 
     public static void main(String[] args) {
-
         Animal animal = new Dog();
         animal.eat();
         animal.run();

@@ -4,15 +4,15 @@ public class LiteralsTest {
 
     public static void main(String[] args) {
         int number1 = 011;  // 0 ile başlıyor octal
-        System.out.println(number1);
+        System.out.println(number1);    // 9
 
         // int number2 = 08;    // 8 compile error
 
         int number3 = 0xAB;
-        System.out.println(number3);
+        System.out.println(number3);    // 171
 
         int number4 = 0b111;
-        System.out.println(number4);
+        System.out.println(number4);    // 7
 
         float f1 = 100;
         // float f2 = 100.0;

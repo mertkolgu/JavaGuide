@@ -1,11 +1,10 @@
-package com.javase._54.predicate;
+package com.javase._59.predicate;
 
 import java.util.function.Predicate;
 
 public class PredicateTest05 {
 
     public static void main(String[] args) {
-
         Predicate<String> p1 = String::isEmpty;
         // Predicate<String> p11 = String::length; // compile error, length metodu geriye boolean dönmez!
         // Predicate<String> p12 = String::startsWith;
@@ -17,8 +16,8 @@ public class PredicateTest05 {
             return x.isEmpty();
         };
 
-        System.out.println(p3.test(""));
-        System.out.println(p3.test("java"));
+        System.out.println(p3.test(""));    // true
+        System.out.println(p3.test("java"));    // false
 
         // Predicate<T> # boolean test(T t);
         // java.lang.String

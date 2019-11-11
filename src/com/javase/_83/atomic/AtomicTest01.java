@@ -1,18 +1,16 @@
-package com.javase._78.atomic;
+package com.javase._83.atomic;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class AtomicTest01 {
 
     public static void main(String[] args) {
-
         AtomicInteger atomic = new AtomicInteger();
         atomic.set(10);
         atomic.getAndIncrement();   // c++;
         atomic.incrementAndGet();   // ++c;
 
-        System.out.println(atomic);
-
+        System.out.println(atomic); // 12
         // The classes such as AtomicInteger do not use a lock; rather, they
         // internally use volatile variables and a low-level mechanism known as
         // Compare-And-Set (CAS). For this reason, using AtomicInteger and

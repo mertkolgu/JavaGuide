@@ -1,15 +1,13 @@
-package com.javase._78.atomic;
+package com.javase._83.atomic;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 class Counter {
-
     public static Integer integer = new Integer(0);
     public static AtomicInteger atomicInteger = new AtomicInteger(0);
 }
 
 public class AtomicTest02 {
-
     static class Incrementer extends Thread {
         public void run() {
             Counter.integer++;
@@ -25,7 +23,6 @@ public class AtomicTest02 {
     }
 
     public static void main(String[] args) throws InterruptedException {
-
         Thread incremeterThread[] = new Incrementer[1000];
         Thread decrementerThread[] = new Decrementer[1000];
 
@@ -40,5 +37,6 @@ public class AtomicTest02 {
             decrementerThread[i].join();
         }
         System.out.printf("Integer value = %d AtomicInteger value = %d ", Counter.integer, Counter.atomicInteger.get());
+        // Integer value = 2 AtomicInteger value = 0
     }
 }

@@ -1,4 +1,4 @@
-package com.javase._57.supplier;
+package com.javase._62.supplier;
 
 import java.util.Random;
 import java.util.function.Function;
@@ -8,12 +8,10 @@ import java.util.stream.Stream;
 public class SupplierTest02 {
 
     public static void main(String[] args) {
-
         // public static<T> Stream<T> generate(Supplier<? extends T> s) {
         // public int nextInt() {
-
         Supplier<Integer> supplier = new Random()::nextInt;
-        // Supplier<Integer> supplierV2 =  Random::nextInt;
+        // Supplier<Integer> supplierV2 = Random::nextInt;
         Supplier<String> supplierV3 = String::new;
         // public String() {
 

@@ -1,4 +1,4 @@
-package com.javase._62.streamintermediate;
+package com.javase._67.streamintermediate;
 
 import java.util.function.IntPredicate;
 import java.util.stream.IntStream;
@@ -6,9 +6,7 @@ import java.util.stream.IntStream;
 public class IntermediateFilterTest01 {
 
     public static void main(String[] args) {
-
         IntStream.rangeClosed(0, 15).filter(i -> i % 2 == 0).forEach(System.out::println);
-
         // IntStream filter(IntPredicate predicate);
         // Stream<T> filter(Predicate<? super T> predicate);
 

@@ -1,4 +1,4 @@
-package com.javase._86.parallelstream;
+package com.javase._91.parallelstream;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,7 +26,6 @@ class WhaleDataCalculator {
 public class ParallelStreamTest04 {
 
     public static void main(String[] args) {
-
         WhaleDataCalculator calculator = new WhaleDataCalculator();
         // Define the data
         List<Integer> data = new ArrayList<Integer>();

@@ -1,15 +1,20 @@
-package com.javase._86.parallelstream;
+package com.javase._91.parallelstream;
 
 import java.util.Arrays;
 
 public class ParallelStreamTest05 {
 
     public static void main(String[] args) {
-
         Arrays.asList("jackal", "kangaroo", "lemur").parallelStream().map(s -> {
             System.out.println(s);
             return s.toUpperCase();
         }).forEach(System.out::println);
+        // kangaroo
+        // KANGAROO
+        // jackal
+        // JACKAL
+        // lemur
+        // LEMUR
     }
 }
 

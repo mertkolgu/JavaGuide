@@ -1,4 +1,4 @@
-package com.javase._83.scheduledexecutorservice;
+package com.javase._88.scheduledexecutorservice;
 
 import java.time.LocalTime;
 import java.util.concurrent.Executors;
@@ -8,10 +8,8 @@ import java.util.concurrent.TimeUnit;
 public class ScheduledExecutorServiceTest03 {
 
     public static void main(String[] args) {
-
         ScheduledExecutorService service = Executors.newSingleThreadScheduledExecutor();
         service.scheduleWithFixedDelay(() -> System.out.println(LocalTime.now()), 3, 5, TimeUnit.SECONDS);
-
         // public ScheduledFuture<?> scheduleWithFixedDelay(Runnable command,
         // long initialDelay,
         // long delay,

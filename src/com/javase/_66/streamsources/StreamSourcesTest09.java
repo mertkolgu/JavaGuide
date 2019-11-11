@@ -1,11 +1,10 @@
-package com.javase._61.streamsources;
+package com.javase._66.streamsources;
 
 import java.util.Random;
 
 public class StreamSourcesTest09 {
 
     public static void main(String[] args) {
-
         // eğer limit belirlemezsek sonsuz tane sayı üretmeye çalışır!
         // public IntStream ints() {
         // new Random().ints().forEach(System.out::println);

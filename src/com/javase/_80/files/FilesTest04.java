@@ -1,4 +1,4 @@
-package com.javase._75.files;
+package com.javase._80.files;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -9,7 +9,6 @@ import java.nio.file.StandardCopyOption;
 public class FilesTest04 {
 
     public static void main(String[] args) throws IOException {
-
         Path path1 = Paths.get("folders/original/file.txt");
         Path path2 = Paths.get("folders/copied/copied.txt");
 

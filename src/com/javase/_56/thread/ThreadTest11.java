@@ -7,7 +7,6 @@ import java.util.concurrent.*;
 public class ThreadTest11 {
 
     public static void main(String[] args) {
-
         // aynı anda 1 tane thread kullanılabilir
         ExecutorService executorService = Executors.newFixedThreadPool(1);
 

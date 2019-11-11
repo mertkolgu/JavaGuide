@@ -1,7 +1,6 @@
 package com.javase._05.declaremembers.abstracttest;
 
 public abstract class Sekil {
-
     private String isim;
 
     public Sekil(String isim) {
@@ -15,7 +14,6 @@ public abstract class Sekil {
     abstract void alanHesapla();
 
     public static void main(String[] args) {
-
         // Sekil sekil = new Sekil("sekil");    // obje oluşturamayız
         Kare kare = new Kare("Kare", 5);
         Daire daire = new Daire("Daire", 3);
@@ -35,7 +33,6 @@ public abstract class Sekil {
 }
 
 class Kare extends Sekil {
-
     private int kenar;
 
     public Kare(String isim, int kenar) {
@@ -54,7 +51,6 @@ class Kare extends Sekil {
 }
 
 class Daire extends Sekil {
-
     private int yariCap;
 
     public Daire(String isim, int yariCap) {

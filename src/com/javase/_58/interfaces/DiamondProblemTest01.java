@@ -1,7 +1,6 @@
-package com.javase._53.interfaces;
+package com.javase._58.interfaces;
 
 interface MyInterface {
-
     public default void defaultMethod() {
         System.out.println("MyInterface#defaultMethod");
     }
@@ -10,7 +9,6 @@ interface MyInterface {
 }
 
 interface MyInterface2 {
-
     public default void defaultMethod() {
         System.out.println("MyInterface2#defaultMethod");
     }

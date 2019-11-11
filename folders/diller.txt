@@ -1,5 +1,3 @@
-Java
-Go
-Python
-Php
-JavaScript
+java
+python
+c#

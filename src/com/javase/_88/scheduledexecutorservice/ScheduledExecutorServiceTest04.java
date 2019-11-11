@@ -1,4 +1,4 @@
-package com.javase._83.scheduledexecutorservice;
+package com.javase._88.scheduledexecutorservice;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -12,7 +12,6 @@ import java.util.concurrent.TimeUnit;
 public class ScheduledExecutorServiceTest04 {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
-
         // While a single-thread executor will wait for an available thread to
         // become available before running the next task, a pooled-thread
         // executor can execute the next task concurrently.
@@ -23,7 +22,6 @@ public class ScheduledExecutorServiceTest04 {
         // all tasks will be executed concurrently
 
         // ScheduledExecutorService service = Executors.newScheduledThreadPool(4);
-
         ExecutorService service = Executors.newFixedThreadPool(4);
         // ScheduledExecutorService service =
         // Executors.newSingleThreadScheduledExecutor();

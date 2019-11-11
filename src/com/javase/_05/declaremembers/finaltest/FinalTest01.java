@@ -3,7 +3,6 @@ package com.javase._05.declaremembers.finaltest;
 public class FinalTest01 {
 
     public static void main(String[] args) {
-
         Final finalTest1 = new Final("Obje 1");
         Final finalTest2 = new Final("Obje 2");
 

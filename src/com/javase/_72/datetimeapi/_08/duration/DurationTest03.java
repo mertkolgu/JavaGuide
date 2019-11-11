@@ -1,4 +1,4 @@
-package com.javase._67.datetimeapi._08.duration;
+package com.javase._72.datetimeapi._08.duration;
 
 import java.time.LocalDate;
 import java.time.Period;
@@ -6,7 +6,6 @@ import java.time.Period;
 public class DurationTest03 {
 
     public static void main(String[] args) {
-
         LocalDate startDate = LocalDate.of(2017, 6, 18);
         LocalDate now = LocalDate.now();
 
@@ -17,6 +16,6 @@ public class DurationTest03 {
         // Period , gun/day , year
 
         Period p1 = Period.between(startDate, now);
-        System.out.println(p1);
+        System.out.println(p1); // P2Y4M24D
     }
 }

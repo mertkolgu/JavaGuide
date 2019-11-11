@@ -1,4 +1,4 @@
-package com.javase._52.functionalinterfaces;
+package com.javase._57.functionalinterfaces;
 
 public class NotesForFunctionalInterfaces {
     //

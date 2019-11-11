@@ -1,4 +1,4 @@
-package com.javase._67.datetimeapi;
+package com.javase._72.datetimeapi;
 
 public class NotesForDateTimeApi {
     //
@@ -18,4 +18,4 @@ public class NotesForDateTimeApi {
 // - günler 1-31 aralığında olabilirken, aylar 0-11 aralığında olmakta (ocak -> 0, aralık -> 11)
 // - Date, SimpleDateFormatter gibi sınıflar thread safe değil!
 
-// Java'8 de gelen sınıfların çoğunluğu immutable vve thread safe olmaktadır.
+// Java 8'de gelen sınıfların çoğunluğu immutable ve thread safe olmaktadır.

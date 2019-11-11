@@ -1,10 +1,9 @@
-package com.javase._85.forkandjoin;
+package com.javase._90.forkandjoin;
 
 import java.util.Random;
 import java.util.concurrent.RecursiveTask;
 
 public class WeighAnimalRecursiveTask extends RecursiveTask<Double> {
-
     private int start;
     private int end;
     private Double[] weights;
@@ -28,11 +27,10 @@ public class WeighAnimalRecursiveTask extends RecursiveTask<Double> {
         } else {
             int middle = start + ((end - start) / 2);
             System.out.println("[start=" + start + ",middle=" + middle + ",end=" + end + "]");
-            RecursiveTask<Double> otherTask = new WeighAnimalRecursiveTask(weights, start, middle);
+            RecursiveTask<Double> otherTask = new com.javase._90.forkandjoin.WeighAnimalRecursiveTask(weights, start, middle);
             otherTask.fork();
-            return new WeighAnimalRecursiveTask(weights, middle, end).compute() + otherTask.join();
+            return new com.javase._90.forkandjoin.WeighAnimalRecursiveTask(weights, middle, end).compute() + otherTask.join();
         }
-
         // Since the invokeAll() method doesn’t return a value, we instead issue
         // a fork() and join() command to retrieve the recursive data
 

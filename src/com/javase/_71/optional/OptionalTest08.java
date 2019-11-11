@@ -1,4 +1,4 @@
-package com.javase._66.optional;
+package com.javase._71.optional;
 
 import java.util.Comparator;
 import java.util.Optional;
@@ -21,7 +21,6 @@ public class OptionalTest08 {
     }
 
     public static void main(String[] args) {
-
         Optional<Integer> opt = Stream.of(100, 200, 50, 10, 60).max(Comparator.naturalOrder());
         threeDigit(opt);
         threeDigitV2(opt);

@@ -1,4 +1,4 @@
-package com.javase._72.listresourcebundle;
+package com.javase._77.listresourcebundle;
 
 import java.util.ListResourceBundle;
 

@@ -8,16 +8,16 @@ public class NotesForStringBufferAndStringBuilder {
         // sb = sb + "rules";  // not works
         sb.append(" Rules!");   // obje mutable özelliğe sahiptir kendisine atama yapmaya gerek YOKTUR!
 
-        System.out.println(sb);
+        System.out.println(sb); // Java Rules!
 
         sb.delete(0, 3);
-        System.out.println(sb);
+        System.out.println(sb); // a Rules!
 
         sb.insert(3, "INSERT!");
-        System.out.println(sb);
+        System.out.println(sb); // a RINSERT!ules!
 
         sb.reverse();
-        System.out.println(sb);
+        System.out.println(sb); // !selu!TRESNIR a
 
         // String str = sb; // StringBuilder IS-A String DEĞİLDİR!
         String str = sb.toString();

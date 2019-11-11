@@ -7,19 +7,19 @@ public class OperatorsTest07 {
         // 8 -> 1000
         // ---------
         //      0000
-        System.out.println(6 & 8);
+        System.out.println(6 & 8);  // 0
 
         // 5 -> 0101
         // 9 -> 1001
         // ---------
         //      1101
-        System.out.println(5 | 9);
+        System.out.println(5 | 9);  // 13
 
         // aynı ise 0, farklı ise 1
         // 7 -> 0111
         // 5 -> 0101
         // ---------
         //      0010
-        System.out.println(7 ^ 5);
+        System.out.println(7 ^ 5);  // 2
     }
 }

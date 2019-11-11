@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ThreadTest06 {
 
     public static void main(String[] args) {
-
         WaitNotifyV2 wn = new WaitNotifyV2();
 
         Thread thread1 = new Thread(new Runnable() {

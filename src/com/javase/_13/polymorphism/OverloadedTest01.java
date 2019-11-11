@@ -8,7 +8,6 @@ class Overloaded {
     protected void method(long number) {
         System.out.println("long");
     }
-
     // dönüş tipi değişebilir!
     // access level değişebilir!
     public byte method(byte b) {

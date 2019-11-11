@@ -1,4 +1,4 @@
-package com.javase._53.interfaces;
+package com.javase._58.interfaces;
 
 interface CoolInterfaces {
 

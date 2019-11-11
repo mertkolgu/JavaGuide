@@ -1,4 +1,4 @@
-package com.javase._77.filestream;
+package com.javase._82.filestream;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,7 +11,6 @@ import java.util.stream.Stream;
 public class FilesStreamTest03 {
 
     public static void main(String[] args) throws IOException {
-
         BiPredicate<Path, BasicFileAttributes> matcher = (path, attribute) -> attribute.isRegularFile()
                 && path.toString().endsWith("java");
 

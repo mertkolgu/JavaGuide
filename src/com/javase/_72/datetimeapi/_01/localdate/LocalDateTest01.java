@@ -1,4 +1,4 @@
-package com.javase._67.datetimeapi._01.localdate;
+package com.javase._72.datetimeapi._01.localdate;
 
 import java.time.LocalDate;
 import java.util.Date;
@@ -6,12 +6,11 @@ import java.util.Date;
 public class LocalDateTest01 {
 
     public static void main(String[] args) {
-
         LocalDate localDate = LocalDate.now();
-        System.out.println(localDate);
+        System.out.println(localDate);  // 2019-11-11
 
         Date date = new Date();
-        System.out.println(date);
+        System.out.println(date);   // Mon Nov 11 14:38:47 EET 2019
     }
 }
 

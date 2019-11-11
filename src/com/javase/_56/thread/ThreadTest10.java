@@ -5,7 +5,6 @@ import java.util.concurrent.Semaphore;
 public class ThreadTest10 {
 
     public static void main(String[] args) {
-
         SemaphoreOrnegi semaphore = new SemaphoreOrnegi();
 
         Thread thread1 = new Thread(new Runnable() {

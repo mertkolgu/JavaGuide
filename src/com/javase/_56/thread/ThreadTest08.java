@@ -8,7 +8,6 @@ import java.util.concurrent.locks.ReentrantLock;
 public class ThreadTest08 {
 
     public static void main(String[] args) {
-
         ReentrantLockExampleV2 reentrantLockExample = new ReentrantLockExampleV2();
 
         Thread thread1 = new Thread(new Runnable() {

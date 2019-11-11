@@ -1,21 +1,18 @@
-package com.javase._85.forkandjoin;
+package com.javase._90.forkandjoin;
 
 import java.util.Random;
 import java.util.concurrent.RecursiveAction;
 
 public class WeighAnimalRecursiveAction extends RecursiveAction {
-
     private int start;
     private int end;
     private Double[] weights;
-
     public WeighAnimalRecursiveAction(Double[] weights, int start, int end) {
         super();
         this.weights = weights;
         this.start = start;
         this.end = end;
     }
-
     @Override
     protected void compute() {
         if (end - start <= 3)
@@ -27,8 +24,8 @@ public class WeighAnimalRecursiveAction extends RecursiveAction {
             int middle = start + ((end - start) / 2);
             System.out.println("[start=" + start + ",middle=" + middle + ",end=" + end + "]");
 
-            invokeAll(new WeighAnimalRecursiveAction(weights, start, middle),
-                    new WeighAnimalRecursiveAction(weights, middle, end));
+            invokeAll(new com.javase._90.forkandjoin.WeighAnimalRecursiveAction(weights, start, middle),
+                    new com.javase._90.forkandjoin.WeighAnimalRecursiveAction(weights, middle, end));
         }
     }
 }

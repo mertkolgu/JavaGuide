@@ -1,12 +1,11 @@
 package com.javase._52.methodlocalinner;
 
 public class NotesForMethodLocalInner {
+    private int value = 200;
 
     public static void main(String[] args) {
         //
     }
-
-    private int value = 200;
 
     void method() {
         // legal değildir.

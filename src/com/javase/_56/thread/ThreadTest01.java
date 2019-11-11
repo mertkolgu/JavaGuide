@@ -3,7 +3,6 @@ package com.javase._56.thread;
 public class ThreadTest01 {
 
     public static void main(String[] args) {
-
         Printer printer1 = new Printer("Printer1");
         Printer printer2 = new Printer("Printer2");
 

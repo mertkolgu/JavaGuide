@@ -1,4 +1,4 @@
-package com.javase._69.trywithresource;
+package com.javase._74.trywithresource;
 
 import java.io.FileWriter;
 import java.io.IOException;
@@ -6,8 +6,7 @@ import java.util.Scanner;
 
 public class TryWithResourceTest05 {
 
-    public static void main(String[] args) throws IOException {
-
+    public static void main(String[] args) {
         try (FileWriter fileWriter = new FileWriter("folders/diller.txt")) {
             Scanner sc = new Scanner(System.in);
             String dil;
@@ -21,7 +20,6 @@ public class TryWithResourceTest05 {
                     System.out.println("Dosyayı kontrol edin.");
                     break;
                 }
-
                 fileWriter.write(dil + "\n");
             }
         } catch (IOException e) {

@@ -1,4 +1,4 @@
-package com.javase._85.forkandjoin;
+package com.javase._90.forkandjoin;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
@@ -14,7 +14,6 @@ public class SumOfNUsingForkJoin {
     // This is the recursive implementation of the algorithm; inherit from
     // RecursiveTask
     // instead of RecursiveAction since we're returning values.
-
     static class RecursiveSumOfN extends RecursiveTask<Long> {
         long from, to;
 
@@ -23,7 +22,6 @@ public class SumOfNUsingForkJoin {
             this.from = from;
             this.to = to;
         }
-
         // the method performs fork and join to compute the sum if the range
         // of values can be summed by a threadremember that we want to divide
         // the summation task equally among NUM_THREADS) then, sum the range
@@ -65,7 +63,6 @@ public class SumOfNUsingForkJoin {
     }
 
     public static void main(String[] args) {
-
         // Create a fork-join pool that consists of NUM_THREADS
         ForkJoinPool pool = new ForkJoinPool(NUM_THREADS);
         // submit the computation task to the fork-join pool

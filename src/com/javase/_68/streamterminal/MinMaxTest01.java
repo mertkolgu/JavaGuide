@@ -1,4 +1,4 @@
-package com.javase._63.streamterminal;
+package com.javase._68.streamterminal;
 
 import java.util.Comparator;
 import java.util.Optional;
@@ -7,7 +7,6 @@ import java.util.stream.Stream;
 public class MinMaxTest01 {
 
     public static void main(String[] args) {
-
         Stream<String> stream1 = Stream.of("monkey", "ape", "bonobo");
         Stream<String> stream2 = Stream.of("monkey", "ape", "bonobo");
 
@@ -17,8 +16,8 @@ public class MinMaxTest01 {
         Optional<String> min = stream1.min(comp);
         Optional<String> max = stream2.max(comp);
 
-        System.out.println(min);
-        System.out.println(max);
+        System.out.println(min);    // Optional[ape]
+        System.out.println(max);    // Optional[monkey]
     }
 }
 

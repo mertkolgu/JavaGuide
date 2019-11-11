@@ -3,7 +3,6 @@ package com.javase._56.thread;
 public class ThreadTest12 {
 
     public static void main(String[] args) {
-
         Thread thread = new Thread(new Runnable() {
             @Override
             public void run() {

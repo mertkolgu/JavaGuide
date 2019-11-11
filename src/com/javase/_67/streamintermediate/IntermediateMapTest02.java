@@ -1,4 +1,4 @@
-package com.javase._62.streamintermediate;
+package com.javase._67.streamintermediate;
 
 import java.util.function.DoubleUnaryOperator;
 import java.util.stream.DoubleStream;
@@ -6,7 +6,6 @@ import java.util.stream.DoubleStream;
 public class IntermediateMapTest02 {
 
     public static void main(String[] args) {
-
         // DoubleStream # DoubleStream map(DoubleUnaryOperator mapper);
         // DoubleStream map(DoubleUnaryOperator mapper);
 

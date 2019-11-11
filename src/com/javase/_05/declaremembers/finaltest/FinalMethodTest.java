@@ -26,7 +26,6 @@ class SubClass extends SuperClass {
     void testMethod() {
         //
     }
-
     // final methodlar override edilemezler!
     // void finalMethod() {}
 }

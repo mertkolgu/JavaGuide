@@ -1,4 +1,4 @@
-package com.javase._75.files;
+package com.javase._80.files;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -11,7 +11,6 @@ import java.util.List;
 public class FilesTest06 {
 
     public static void main(String[] args) throws IOException {
-
         Path p1 = Paths.get("folders/buffered.txt");
 
         try (BufferedWriter bw = Files.newBufferedWriter(p1)) {
@@ -19,16 +18,17 @@ public class FilesTest06 {
         }
 
         try (BufferedReader br = Files.newBufferedReader(p1)) {
-
             String line = null;
             while ((line = br.readLine()) != null) {
                 System.out.println(line);
+                // line1
+                // line2
+                // line3
             }
         }
-
         // dosya içeriğini satır satır listeye atmakta!
         // büyük dosyalar için probleme neden olabilir. OutOfMemory!
         List<String> lines = Files.readAllLines(p1);
-        System.out.println(lines);
+        System.out.println(lines);  // [line1, line2, line3]
     }
 }

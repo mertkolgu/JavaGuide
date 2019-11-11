@@ -1,4 +1,4 @@
-package com.javase._52.functionalinterfaces;
+package com.javase._57.functionalinterfaces;
 
 public class FunctionalInterfacesTest02 {
     // For a functional interface, declaring methods from Object class in an
@@ -22,7 +22,6 @@ interface F2 {
 @FunctionalInterface
 interface F3 {
     public int test();
-
     public boolean equals(Object obj);  // DİKKAT, bu java.lang.Object sınıfında yer alan metot!
 }
 // A functional interface consists of exactly one abstract method

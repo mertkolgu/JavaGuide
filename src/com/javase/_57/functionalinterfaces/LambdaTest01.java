@@ -1,4 +1,4 @@
-package com.javase._52.functionalinterfaces;
+package com.javase._57.functionalinterfaces;
 
 @FunctionalInterface
 interface LambdaFunction {
@@ -18,10 +18,8 @@ interface LambdaFunctionWithMoreParameters {
 public class LambdaTest01 {
 
     public static void main(String[] args) {
-
         LambdaFunction lambdaFunction = () -> System.out.println("Hello World!");
         lambdaFunction.call();
-
         // if no parameters, then empty parenthesis () must be provided
 
         LambdaFunctionWithParameter lambdaFunction2 = (int k) -> System.out.println("Hello World : " + k);
@@ -35,7 +33,6 @@ public class LambdaTest01 {
 
         lambdaFunction2.call(20);
         lambdaFunction4.call(20, 30);
-
         // As we said, parentheses can be omitted only
         // if there is exactly one parameter and the data type is not specified.
     }

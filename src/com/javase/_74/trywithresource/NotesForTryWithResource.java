@@ -1,4 +1,4 @@
-package com.javase._69.trywithresource;
+package com.javase._74.trywithresource;
 
 public class NotesForTryWithResource {
     //

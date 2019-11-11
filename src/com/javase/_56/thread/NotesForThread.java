@@ -15,7 +15,7 @@ public class NotesForThread {
 
 // thread bir process'in içinde bulunan bir çalışma ünitesidir ve her Java programı en az bir thread'e sahiptir.
 // eğer biz hiç thread oluşturmasak bile Java projeleri main metodunu çalıştırırken bir tane main thread oluşturur.
-// bu main thread'inin yanına kendimiz değişik işlemler yaptıramak için kendi thread'lerimizi oluşturabiliriz.
+// bu main thread'inin yanına kendimiz değişik işlemler yaptırmak için kendi thread'lerimizi oluşturabiliriz.
 
 // thread'ler process'lerin içinde oluştuğu için process'lerin oluşturduğu
 // bellek alanına direkt olarak erişim sağlayabilirler.
@@ -90,5 +90,5 @@ public class NotesForThread {
 // 1 - ya thread'i bilgisayar kendi sonlandırıyordur/yarıda kesiyordur
 // 2 - ya da programcı thread'i yarıda kesmek istiyordur
 
-// interrup, bir thread'in çalışmasını bitirmiyor sadece o thread'i yarıda kesiyor
+// interrupt, bir thread'in çalışmasını bitirmiyor sadece o thread'i yarıda kesiyor
 // thread uyuyorsa thread'i uyandırıyor ya da thread belli bir yerde bekliyorsa beklediği yerden çıkarabilir

@@ -1,4 +1,4 @@
-package com.javase._61.streamsources;
+package com.javase._66.streamsources;
 
 import java.lang.reflect.Method;
 import java.util.Arrays;
@@ -7,7 +7,6 @@ import java.util.stream.Stream;
 public class StreamSourcesTest04 {
 
     public static void main(String[] args) {
-
         Arrays.stream(Object.class.getMethods()).map(method -> method.getName()).distinct().forEach(System.out::println);
 
         // source

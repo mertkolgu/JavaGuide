@@ -3,7 +3,6 @@ package com.javase._05.declaremembers.finaltest;
 public class FinalTest03 {
 
     public static void main(String[] args) {
-
         DB db = new DB();
         db.baglantiKur("root", "12345");
     }

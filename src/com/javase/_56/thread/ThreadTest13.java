@@ -5,7 +5,6 @@ import java.util.List;
 
 public class ThreadTest13 {
     public static void main(String[] args) {
-
         List<Integer> list = new LinkedList<>();
 
         Thread thread = new Thread(new Runnable() {

@@ -5,19 +5,19 @@ public class NotesForString {
     public static void main(String[] args) {
         String x = "java";
         x.concat(" Rules");
-        System.out.println(x);
+        System.out.println(x);  // java
 
         String y = "java";
         y = y.concat(" Rules"); // stringleri birleştirir
-        System.out.println(y);
+        System.out.println(y);  // java Rules
 
         String z = "java";
         z.toUpperCase();    // bütün karakterleri büyük harfle yazar
-        System.out.println(z.toUpperCase());
+        System.out.println(z.toUpperCase());    // JAVA
 
         String q = "JAVA";
         q.toLowerCase();    // bütün karakterleri küçük harfle yazar
-        System.out.println(q.toLowerCase());
+        System.out.println(q.toLowerCase());    // java
     }
 }
 

@@ -1,7 +1,6 @@
 package com.javase._06.declarevariable;
 
 public class NotesForVariable {
-
     String str = "text";    // reference type
     char ch = 'a';          // primitive
     Integer i = 100;        // reference type

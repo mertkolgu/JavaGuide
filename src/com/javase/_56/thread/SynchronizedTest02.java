@@ -26,7 +26,6 @@ public class SynchronizedTest02 {
                 }
             }
         });
-
         thread1.start();
         thread2.start();
 
@@ -41,7 +40,6 @@ public class SynchronizedTest02 {
     }
 
     public static void main(String[] args) {
-
         SynchronizedTest02 synchronizedTest02 = new SynchronizedTest02();
         synchronizedTest02.threadleriCalistir();
     }

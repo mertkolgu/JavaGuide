@@ -1,9 +1,8 @@
-package com.javase._52.functionalinterfaces;
+package com.javase._57.functionalinterfaces;
 
 @FunctionalInterface
 interface Sprint {
     public void sprint(Animal animal);
-
     // birden fazla abstract metot yer alırsa bu interface
     // functional interface olmaktan ÇIKAR!
     // public void sprintV2(Animal animal)

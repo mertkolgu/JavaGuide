@@ -1,4 +1,4 @@
-package com.javase._83.scheduledexecutorservice;
+package com.javase._88.scheduledexecutorservice;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
@@ -10,7 +10,6 @@ import java.util.concurrent.TimeUnit;
 public class ScheduledExecutorServiceTest01 {
 
     public static void main(String[] args) throws InterruptedException, ExecutionException {
-
         ScheduledExecutorService service = Executors.newSingleThreadScheduledExecutor();
         Runnable task1 = () -> System.out.println("task1 message!");
         Callable<String> task2 = () -> {
@@ -25,7 +24,6 @@ public class ScheduledExecutorServiceTest01 {
 
         System.out.println(result1.get());
         System.out.println(result2.get());
-
         service.shutdown();
     }
 }

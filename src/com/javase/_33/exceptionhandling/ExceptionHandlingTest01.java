@@ -6,7 +6,6 @@ public class ExceptionHandlingTest01 {
         int number = 100;
         // System.out.println(number / 0);  // program crash olur!
         // System.out.println("not work!");
-
         try {
             System.out.println(number / 0);
             System.out.println("not work");

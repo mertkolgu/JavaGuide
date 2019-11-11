@@ -6,11 +6,8 @@ public class NotesForIfElse {
         int number = 10;
         int number2;
         // tek ifade/tek satır bile olsa if else için süslü parantez KULLAN!
-
         if (number > 15)
             number2 = 20;
-
-        int number3 = 50;
 
         if (number > 15) {
             number2 = 20;

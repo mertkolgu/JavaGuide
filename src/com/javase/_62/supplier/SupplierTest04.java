@@ -1,4 +1,4 @@
-package com.javase._57.supplier;
+package com.javase._62.supplier;
 
 import java.util.ArrayList;
 import java.util.function.Supplier;
@@ -6,10 +6,8 @@ import java.util.function.Supplier;
 public class SupplierTest04 {
 
     public static void main(String[] args) {
-
         Supplier<StringBuilder> s1 = StringBuilder::new;
         Supplier<StringBuilder> s2 = () -> new StringBuilder();
-
         // T get();
         // public StringBuilder() {
 

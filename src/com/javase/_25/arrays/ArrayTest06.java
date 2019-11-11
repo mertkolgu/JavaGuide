@@ -11,13 +11,13 @@ public class ArrayTest06 {
         if (array1 == array2) {
             System.out.println("Eşitler.");
         } else {
-            System.out.println("Eşit değiller.");
+            System.out.println("Eşit değiller.");   // burası çalışır
         }
 
         if (Arrays.equals(array1, array2)) {
             System.out.println("Eşitler.");
         } else {
-            System.out.println("Eşit değiller.");
+            System.out.println("Eşit değiller.");   // burası çalışır
         }
     }
 }

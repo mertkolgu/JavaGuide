@@ -1,4 +1,9 @@
-package com.javase._52.functionalinterfaces;
+package com.javase._57.functionalinterfaces;
+
+@FunctionalInterface
+interface LambdaFinal {
+    void printMessage(String message);
+}
 
 public class LambdaTest04 {
 
@@ -23,9 +28,4 @@ public class LambdaTest04 {
         // accessed in lambda expressions? The reason is that such mutation is not
         // thread safe.
     }
-}
-
-@FunctionalInterface
-interface LambdaFinal {
-    void printMessage(String message);
 }

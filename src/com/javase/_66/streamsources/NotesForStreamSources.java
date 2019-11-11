@@ -1,4 +1,4 @@
-package com.javase._61.streamsources;
+package com.javase._66.streamsources;
 
 public class NotesForStreamSources {
     //

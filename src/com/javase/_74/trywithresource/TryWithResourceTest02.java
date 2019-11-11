@@ -1,11 +1,10 @@
-package com.javase._69.trywithresource;
+package com.javase._74.trywithresource;
 
 import java.util.Scanner;
 
 public class TryWithResourceTest02 {
 
     public static void main(String[] args) {
-
         try (Scanner s = new Scanner(System.in)) {
             s.nextLine();
             s.close();

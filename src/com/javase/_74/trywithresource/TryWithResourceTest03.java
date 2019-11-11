@@ -1,11 +1,10 @@
-package com.javase._69.trywithresource;
+package com.javase._74.trywithresource;
 
 import java.io.IOException;
 
 public class TryWithResourceTest03 {
 
     public static void main(String[] args) {
-
         try (Computer computer = new Computer()) {
             //
         } catch (IOException e) {

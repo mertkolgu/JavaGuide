@@ -1,4 +1,4 @@
-package com.javase._85.forkandjoin;
+package com.javase._90.forkandjoin;
 
 import java.util.Arrays;
 import java.util.concurrent.ForkJoinPool;
@@ -7,7 +7,6 @@ import java.util.concurrent.ForkJoinTask;
 public class ForkAndJoinTest01 {
 
     public static void main(String[] args) {
-
         Double[] weights = new Double[10];
         ForkJoinTask<?> task = new WeighAnimalRecursiveAction(weights, 0, weights.length);
         ForkJoinPool pool = new ForkJoinPool();

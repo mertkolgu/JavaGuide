@@ -1,4 +1,4 @@
-package com.javase._75.files;
+package com.javase._80.files;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -8,7 +8,6 @@ import java.nio.file.Paths;
 public class FilesTest02 {
 
     public static void main(String[] args) throws IOException {
-
         Path path1 = Paths.get("folders/folder");
 
         if (!Files.exists(path1)) {

@@ -28,7 +28,6 @@ public class PriorityQueueTest01 {
             // Eleman çıkarılıyor : 5
             // Eleman çıkarılıyor : 100
         }
-
         queue.clear();  // kuyruğu temizledi
         System.out.println("Kuyruk boş mu ? : " + queue.isEmpty()); // true
     }
